@@ -1,0 +1,2264 @@
+recoveredCode;date;recoveredQuantity;recoveredTotalQuantity;nameCountry;nameDataset
+Recovered-000001;2020-06-16;401;12730;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000002;2020-06-16;13;373;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000003;2020-06-16;68;3327;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000004;2020-06-16;14;354;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000005;2020-06-16;3;160;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000006;2020-06-16;8;62;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000007;2020-06-16;68;4326;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000008;2020-06-16;3;686;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000009;2020-06-16;57;7937;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000010;2020-06-16;20;1145;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000011;2020-06-16;4;73;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000012;2020-06-16;42;1328;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000013;2020-06-16;141;3324;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000014;2020-06-16;1;222;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000015;2020-06-16;27;649;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000016;2020-06-16;31;89;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-000017;2020-06-16;10;259;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000018;2020-06-16;118;738;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000019;2020-06-16;33;417;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000020;2020-06-16;101;3525;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000021;2020-06-16;52;7880;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000022;2020-06-16;1;18;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000023;2020-06-16;7;70;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000024;2020-06-15;13;127;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000025;2020-06-15;14;396;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000026;2020-06-15;3;1002;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000027;2020-06-15;15;628;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000028;2020-06-15;52;351;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000029;2020-06-15;8;236;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000030;2020-06-15;310;1334;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000031;2020-06-15;129;7735;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000032;2020-06-15;129;5349;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000033;2020-06-15;1336;39867;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000034;2020-06-15;9;308;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000035;2020-06-15;28;360;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000036;2020-06-15;39;340;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000037;2020-06-15;85;2590;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000038;2020-06-15;6;338;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000039;2020-06-15;3;64;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000040;2020-06-15;398;12329;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000041;2020-06-15;31;5601;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000042;2020-06-15;6;157;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000043;2020-06-15;233;3183;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000044;2020-06-15;49;7828;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000045;2020-06-15;45;622;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000046;2020-06-15;20;1142;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000047;2020-06-15;3;683;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000048;2020-06-15;33;1286;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000049;2020-06-15;75;620;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000050;2020-06-15;37;1125;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000051;2020-06-15;17;384;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000052;2020-06-15;1;63;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000053;2020-06-15;80;3424;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000054;2020-06-15;14;7779;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000055;2020-06-15;14;75;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-000056;2020-06-14;2;809;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000057;2020-06-14;25;3259;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000058;2020-06-14;13;382;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000059;2020-06-14;2;221;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000060;2020-06-14;1;999;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000061;2020-06-14;130;391;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000062;2020-06-14;4;885;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000063;2020-06-14;59;299;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000064;2020-06-14;13;613;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000065;2020-06-14;119;5220;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000066;2020-06-14;1;177;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000067;2020-06-14;21;332;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000068;2020-06-14;1681;38531;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000069;2020-06-14;8;299;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000070;2020-06-14;108;2505;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000071;2020-06-14;402;11931;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000072;2020-06-14;3;301;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000073;2020-06-14;186;7606;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000074;2020-06-14;1;69;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000075;2020-06-14;9;58;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-000076;2020-06-14;2;249;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000077;2020-06-14;40;7765;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000078;2020-06-14;8;1122;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000079;2020-06-14;2;720;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000080;2020-06-14;32;1253;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000081;2020-06-14;30;1088;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000082;2020-06-14;18;577;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000083;2020-06-14;127;2950;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000084;2020-06-14;10;680;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000085;2020-06-14;50;545;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000086;2020-06-14;116;3344;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000087;2020-06-14;3;62;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000088;2020-06-14;5;367;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000089;2020-06-14;29;7725;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000090;2020-06-13;110;2720;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000091;2020-06-13;3;807;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000092;2020-06-13;279;4258;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000093;2020-06-13;13;5570;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000094;2020-06-13;21;3234;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000095;2020-06-13;6;369;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000096;2020-06-13;3;998;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000097;2020-06-13;5;219;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000098;2020-06-13;5;600;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000099;2020-06-13;41;240;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000100;2020-06-13;210;5101;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000101;2020-06-13;12;291;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000102;2020-06-13;9;176;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000103;2020-06-13;134;2397;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000104;2020-06-13;4;298;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000105;2020-06-13;421;11529;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000106;2020-06-13;1842;36850;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000107;2020-06-13;11;332;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000108;2020-06-13;33;311;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000109;2020-06-13;20;61;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000110;2020-06-13;10;1114;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000111;2020-06-13;3;54;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000112;2020-06-13;32;7696;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000113;2020-06-13;1;247;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000114;2020-06-13;6;151;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000115;2020-06-13;35;1058;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000116;2020-06-13;7;718;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000117;2020-06-13;98;7420;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000118;2020-06-13;3;68;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000119;2020-06-13;93;2823;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000120;2020-06-13;27;559;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000121;2020-06-13;57;1221;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000122;2020-06-13;22;670;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000123;2020-06-13;44;495;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000124;2020-06-13;18;362;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000125;2020-06-13;128;3228;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000126;2020-06-13;46;7664;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000127;2020-06-12;54;2610;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000128;2020-06-12;5;804;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000129;2020-06-12;6;228;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000130;2020-06-12;2;24;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000131;2020-06-12;17;114;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000132;2020-06-12;28;278;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000133;2020-06-12;107;3213;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000134;2020-06-12;4;214;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000135;2020-06-12;15;595;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000136;2020-06-12;38;199;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000137;2020-06-12;58;3979;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000138;2020-06-12;32;261;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000139;2020-06-12;397;4891;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000140;2020-06-12;240;515;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-000141;2020-06-12;8;279;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000142;2020-06-12;51;2263;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000143;2020-06-12;1756;35008;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000144;2020-06-12;6;648;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000145;2020-06-12;11;167;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000146;2020-06-12;417;11108;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000147;2020-06-12;3;881;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000148;2020-06-12;5;711;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000149;2020-06-12;8;321;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000150;2020-06-12;1;49;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-000151;2020-06-12;18;7618;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000152;2020-06-12;68;7322;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000153;2020-06-12;1;145;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000154;2020-06-12;34;1023;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000155;2020-06-12;211;2730;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000156;2020-06-12;8;246;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000157;2020-06-12;26;1104;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000158;2020-06-12;72;1164;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000159;2020-06-12;29;217;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000160;2020-06-12;32;344;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000161;2020-06-12;17;451;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000162;2020-06-12;17;7600;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000163;2020-06-12;106;3100;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000164;2020-06-11;140;2556;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000165;2020-06-11;5;222;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000166;2020-06-11;73;3106;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000167;2020-06-11;3;363;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000168;2020-06-11;4;210;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000169;2020-06-11;6;995;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000170;2020-06-11;9;1078;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000171;2020-06-11;83;5557;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000172;2020-06-11;97;3921;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000173;2020-06-11;41;161;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000174;2020-06-11;13;580;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000175;2020-06-11;143;4494;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000176;2020-06-11;46;1024;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000177;2020-06-11;5;642;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000178;2020-06-11;6;271;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000179;2020-06-11;38;2212;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000180;2020-06-11;180;7254;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000181;2020-06-11;1747;33252;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000182;2020-06-11;2;878;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000183;2020-06-11;108;250;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000184;2020-06-11;1;41;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000185;2020-06-11;402;10691;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000186;2020-06-11;6;313;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000187;2020-06-11;10;156;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000188;2020-06-11;2;51;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000189;2020-06-11;10;65;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000190;2020-06-11;13;7583;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000191;2020-06-11;2;238;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000192;2020-06-11;26;532;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000193;2020-06-11;41;989;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000194;2020-06-11;6;144;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000195;2020-06-11;44;1092;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000196;2020-06-11;259;2519;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000197;2020-06-11;1;59;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000198;2020-06-11;16;312;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000199;2020-06-11;33;434;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000200;2020-06-11;5;7570;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000201;2020-06-11;109;2994;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000202;2020-06-10;8;799;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000203;2020-06-10;138;2416;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000204;2020-06-10;600;5474;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000205;2020-06-10;38;4874;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000206;2020-06-10;24;3033;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000207;2020-06-10;320;360;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000208;2020-06-10;16;61;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-000209;2020-06-10;33;48;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-000210;2020-06-10;6;989;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000211;2020-06-10;6;206;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000212;2020-06-10;1;120;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000213;2020-06-10;2;567;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000214;2020-06-10;8;229;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000215;2020-06-10;145;4351;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000216;2020-06-10;22;978;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000217;2020-06-10;5;265;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000218;2020-06-10;11;146;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000219;2020-06-10;5;876;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000220;2020-06-10;2499;31505;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000221;2020-06-10;129;2174;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000222;2020-06-10;123;7074;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000223;2020-06-10;3;49;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000224;2020-06-10;2;40;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000225;2020-06-10;503;10289;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000226;2020-06-10;7;307;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000227;2020-06-10;3;142;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000228;2020-06-10;24;294;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000229;2020-06-10;1;325;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-000230;2020-06-10;69;7565;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000231;2020-06-10;4;236;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000232;2020-06-10;49;1069;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000233;2020-06-10;16;637;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000234;2020-06-10;2;138;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000235;2020-06-10;121;2260;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000236;2020-06-10;17;948;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000237;2020-06-10;17;506;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000238;2020-06-10;175;1048;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000239;2020-06-10;22;296;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000240;2020-06-10;3;7496;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000241;2020-06-10;1;58;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000242;2020-06-10;76;2885;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000243;2020-06-10;22;401;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000244;2020-06-10;1;17;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000245;2020-06-09;76;2278;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000246;2020-06-09;1;791;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000247;2020-06-09;69;3824;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000248;2020-06-09;67;3009;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000249;2020-06-09;1;200;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000250;2020-06-09;1;983;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000251;2020-06-09;26;565;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000252;2020-06-09;1;119;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000253;2020-06-09;166;4206;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000254;2020-06-09;30;97;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000255;2020-06-09;9;260;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000256;2020-06-09;42;4836;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000257;2020-06-09;2;871;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000258;2020-06-09;18;956;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000259;2020-06-09;176;2045;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000260;2020-06-09;20;139;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000261;2020-06-09;1;221;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000262;2020-06-09;32;1020;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000263;2020-06-09;411;9786;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000264;2020-06-09;2907;29006;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000265;2020-06-09;152;6951;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000266;2020-06-09;21;706;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000267;2020-06-09;3;300;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000268;2020-06-09;70;7493;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000269;2020-06-09;15;931;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000270;2020-06-09;3;232;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000271;2020-06-09;10;621;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000272;2020-06-09;126;2139;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000273;2020-06-09;5;136;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000274;2020-06-09;4;270;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000275;2020-06-09;19;489;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000276;2020-06-09;24;873;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000277;2020-06-09;18;379;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000278;2020-06-09;20;274;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000279;2020-06-09;110;2809;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000280;2020-06-09;4;57;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000281;2020-06-09;15;7423;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000282;2020-06-08;75;2202;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000283;2020-06-08;12;790;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000284;2020-06-08;2;40;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000285;2020-06-08;110;3755;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000286;2020-06-08;59;135;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000287;2020-06-08;1;22;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000288;2020-06-08;24;2942;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000289;2020-06-08;4;199;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000290;2020-06-08;2;188;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000291;2020-06-08;2;539;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000292;2020-06-08;15;118;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000293;2020-06-08;8;76;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000294;2020-06-08;3;251;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000295;2020-06-08;3;611;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000296;2020-06-08;81;4040;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000297;2020-06-08;105;938;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000298;2020-06-08;1;24;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000299;2020-06-08;26;266;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000300;2020-06-08;51;1869;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000301;2020-06-08;21;254;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000302;2020-06-08;2;869;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000303;2020-06-08;46;4794;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000304;2020-06-08;14;38;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000305;2020-06-08;414;9375;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000306;2020-06-08;13;685;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000307;2020-06-08;4;229;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000308;2020-06-08;7;297;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000309;2020-06-08;12;46;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000310;2020-06-08;1735;26099;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000311;2020-06-08;11;119;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000312;2020-06-08;29;470;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000313;2020-06-08;4;131;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000314;2020-06-08;82;6799;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000315;2020-06-08;38;7408;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000316;2020-06-08;97;849;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000317;2020-06-08;76;988;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000318;2020-06-08;43;916;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000319;2020-06-08;136;2013;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000320;2020-06-08;17;361;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000321;2020-06-08;6;7370;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000322;2020-06-08;1;53;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000323;2020-06-08;111;2699;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000324;2020-06-07;68;2127;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000325;2020-06-07;3;778;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000326;2020-06-07;10;220;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000327;2020-06-07;8;608;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000328;2020-06-07;41;2918;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000329;2020-06-07;9;3645;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000330;2020-06-07;1;195;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000331;2020-06-07;7;103;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000332;2020-06-07;1;34;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000333;2020-06-07;133;3959;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000334;2020-06-07;8;248;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000335;2020-06-07;68;1818;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000336;2020-06-07;13;4748;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000337;2020-06-07;5;982;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000338;2020-06-07;106;24364;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000339;2020-06-07;4;108;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000340;2020-06-07;423;8961;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000341;2020-06-07;1;225;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000342;2020-06-07;10;441;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000343;2020-06-07;7;290;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000344;2020-06-07;36;7364;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000345;2020-06-07;86;6717;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000346;2020-06-07;62;1877;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000347;2020-06-07;1;127;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000348;2020-06-07;28;873;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000349;2020-06-07;46;752;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000350;2020-06-07;63;344;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000351;2020-06-07;13;7328;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000352;2020-06-07;21;233;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000353;2020-06-07;76;2588;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000354;2020-06-06;45;2059;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000355;2020-06-06;3;775;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000356;2020-06-06;35;186;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000357;2020-06-06;9;194;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000358;2020-06-06;20;2877;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000359;2020-06-06;1;38;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000360;2020-06-06;89;3636;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000361;2020-06-06;9;15;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-000362;2020-06-06;14;96;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000363;2020-06-06;33;4735;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000364;2020-06-06;130;3826;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000365;2020-06-06;29;845;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000366;2020-06-06;146;1750;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000367;2020-06-06;28;210;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000368;2020-06-06;4;867;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000369;2020-06-06;1170;24258;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000370;2020-06-06;11;212;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000371;2020-06-06;15;672;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000372;2020-06-06;7;126;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000373;2020-06-06;1;283;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000374;2020-06-06;35;104;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000375;2020-06-06;3;224;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000376;2020-06-06;380;8538;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000377;2020-06-06;20;600;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000378;2020-06-06;3;24;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000379;2020-06-06;37;7315;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000380;2020-06-06;178;6631;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000381;2020-06-06;63;706;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000382;2020-06-06;13;431;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000383;2020-06-06;108;1815;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000384;2020-06-06;10;7278;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000385;2020-06-06;19;281;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000386;2020-06-06;236;2512;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000387;2020-06-05;2;772;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000388;2020-06-05;90;2014;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000389;2020-06-05;127;4702;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000390;2020-06-05;12;67;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000391;2020-06-05;190;2857;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000392;2020-06-05;89;580;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000393;2020-06-05;90;3547;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000394;2020-06-05;8;37;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000395;2020-06-05;9;185;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000396;2020-06-05;8;977;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000397;2020-06-05;25;537;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000398;2020-06-05;2;33;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000399;2020-06-05;20;1604;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000400;2020-06-05;20;221;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000401;2020-06-05;2;282;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000402;2020-06-05;1;240;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000403;2020-06-05;161;3696;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000404;2020-06-05;15;833;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000405;2020-06-05;3;863;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000406;2020-06-05;100;153;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-000407;2020-06-05;2;324;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-000408;2020-06-05;4;69;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000409;2020-06-05;1777;23088;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000410;2020-06-05;1;201;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000411;2020-06-05;402;8158;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000412;2020-06-05;2;21;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000413;2020-06-05;24;657;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000414;2020-06-05;268;3457;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000415;2020-06-05;4;55;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000416;2020-06-05;156;6453;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000417;2020-06-05;53;7268;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000418;2020-06-05;5;119;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000419;2020-06-05;3;182;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000420;2020-06-05;10;816;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000421;2020-06-05;51;643;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000422;2020-06-05;12;262;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000423;2020-06-05;22;1707;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000424;2020-06-05;20;7215;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000425;2020-06-05;114;2276;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000426;2020-06-04;5;770;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000427;2020-06-04;12;45;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-000428;2020-06-04;99;1924;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000429;2020-06-04;6;29;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000430;2020-06-04;155;2667;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000431;2020-06-04;1;176;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000432;2020-06-04;1;969;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000433;2020-06-04;17;512;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000434;2020-06-04;39;1584;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000435;2020-06-04;2;31;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000436;2020-06-04;2;240;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000437;2020-06-04;206;3535;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000438;2020-06-04;28;55;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000439;2020-06-04;870;4575;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000440;2020-06-04;17;818;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000441;2020-06-04;3;860;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000442;2020-06-04;3;239;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000443;2020-06-04;1;19;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000444;2020-06-04;3;151;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000445;2020-06-04;9;280;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000446;2020-06-04;8;65;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000447;2020-06-04;406;7756;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000448;2020-06-04;1629;21311;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000449;2020-06-04;43;633;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000450;2020-06-04;35;7195;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000451;2020-06-04;79;6297;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000452;2020-06-04;5;114;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000453;2020-06-04;12;418;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000454;2020-06-04;18;806;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000455;2020-06-04;49;1685;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000456;2020-06-04;39;592;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000457;2020-06-04;5;200;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000458;2020-06-04;4;250;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000459;2020-06-04;99;2162;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000460;2020-06-04;294;7160;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000461;2020-06-03;5;765;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000462;2020-06-03;180;2512;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000463;2020-06-03;114;1825;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000464;2020-06-03;57;3189;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000465;2020-06-03;6;175;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000466;2020-06-03;2;968;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000467;2020-06-03;3;495;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000468;2020-06-03;90;3329;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000469;2020-06-03;22;801;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000470;2020-06-03;44;1545;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000471;2020-06-03;6;236;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000472;2020-06-03;1;238;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000473;2020-06-03;9;857;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000474;2020-06-03;1369;19682;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000475;2020-06-03;10;195;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000476;2020-06-03;2;271;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000477;2020-06-03;223;6866;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000478;2020-06-03;523;7350;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000479;2020-06-03;2;57;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000480;2020-06-03;29;3705;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000481;2020-06-03;3;201;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000482;2020-06-03;151;6218;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000483;2020-06-03;28;590;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000484;2020-06-03;9;51;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000485;2020-06-03;11;491;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000486;2020-06-03;11;109;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000487;2020-06-03;26;406;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000488;2020-06-03;19;788;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000489;2020-06-03;29;1636;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000490;2020-06-03;54;553;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000491;2020-06-03;15;246;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000492;2020-06-03;233;6643;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000493;2020-06-03;75;275;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-000494;2020-06-03;109;2063;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000495;2020-06-02;7;760;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000496;2020-06-02;86;1711;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000497;2020-06-02;65;2332;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000498;2020-06-02;146;3132;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000499;2020-06-02;2;169;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000500;2020-06-02;1;966;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000501;2020-06-02;10;492;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000502;2020-06-02;117;3239;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000503;2020-06-02;1;148;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000504;2020-06-02;15;230;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000505;2020-06-02;44;237;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000506;2020-06-02;34;1501;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000507;2020-06-02;7;269;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000508;2020-06-02;11;185;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000509;2020-06-02;57;779;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000510;2020-06-02;4;848;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000511;2020-06-02;380;6827;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000512;2020-06-02;1022;18313;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000513;2020-06-02;47;3676;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000514;2020-06-02;19;55;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000515;2020-06-02;173;6067;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000516;2020-06-02;2;23;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000517;2020-06-02;119;6410;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000518;2020-06-02;23;562;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000519;2020-06-02;4;198;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000520;2020-06-02;1;98;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000521;2020-06-02;3;82;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000522;2020-06-02;5;480;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000523;2020-06-02;19;380;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000524;2020-06-02;25;769;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000525;2020-06-02;17;499;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000526;2020-06-02;86;1607;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000527;2020-06-02;14;231;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000528;2020-06-02;96;1954;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000529;2020-06-02;398;6291;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000530;2020-06-01;1;2;Lesoto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000531;2020-06-01;2;753;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000532;2020-06-01;103;1625;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000533;2020-06-01;132;2267;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000534;2020-06-01;1;21;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000535;2020-06-01;1;27;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000536;2020-06-01;8;167;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000537;2020-06-01;39;2986;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000538;2020-06-01;1;965;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000539;2020-06-01;28;482;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000540;2020-06-01;7;79;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000541;2020-06-01;115;3122;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000542;2020-06-01;11;53;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-000543;2020-06-01;32;1467;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000544;2020-06-01;21;475;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000545;2020-06-01;5;844;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000546;2020-06-01;6;262;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000547;2020-06-01;48;539;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000548;2020-06-01;5;194;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000549;2020-06-01;139;5893;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000550;2020-06-01;146;5894;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000551;2020-06-01;2;52;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000552;2020-06-01;4;215;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000553;2020-06-01;5;97;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000554;2020-06-01;51;3629;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000555;2020-06-01;9;36;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000556;2020-06-01;410;6447;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000557;2020-06-01;4;482;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000558;2020-06-01;28;744;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000559;2020-06-01;13;361;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000560;2020-06-01;483;17291;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000561;2020-06-01;17;1521;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000562;2020-06-01;133;912;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000563;2020-06-01;6;174;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000564;2020-06-01;8;217;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000565;2020-06-01;2;16;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000566;2020-06-01;295;5754;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000567;2020-06-01;57;1858;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000568;2020-05-31;10;751;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000569;2020-05-31;99;1522;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000570;2020-05-31;4;147;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000571;2020-05-31;23;2135;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000572;2020-05-31;2;159;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000573;2020-05-31;6;454;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000574;2020-05-31;4;964;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000575;2020-05-31;106;2947;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000576;2020-05-31;5;27;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000577;2020-05-31;151;3007;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000578;2020-05-31;50;1435;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000579;2020-05-31;6;256;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000580;2020-05-31;5;211;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000581;2020-05-31;26;193;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000582;2020-05-31;21;839;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000583;2020-05-31;692;16808;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000584;2020-05-31;1;22;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000585;2020-05-31;10;3578;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000586;2020-05-31;344;6037;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000587;2020-05-31;47;5459;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000588;2020-05-31;199;5748;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000589;2020-05-31;21;189;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000590;2020-05-31;21;491;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000591;2020-05-31;9;179;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000592;2020-05-31;218;1504;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000593;2020-05-31;20;716;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000594;2020-05-31;3;168;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000595;2020-05-31;21;348;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000596;2020-05-31;68;454;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000597;2020-05-31;14;478;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000598;2020-05-31;1;21;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000599;2020-05-31;2;92;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000600;2020-05-31;1;209;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000601;2020-05-31;40;1801;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000602;2020-05-31;11;5412;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000603;2020-05-30;6;741;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000604;2020-05-30;151;1423;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000605;2020-05-30;82;2112;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000606;2020-05-30;127;3568;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000607;2020-05-30;10;960;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000608;2020-05-30;9;157;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000609;2020-05-30;301;2841;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000610;2020-05-30;20;448;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000611;2020-05-30;13;722;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000612;2020-05-30;159;2856;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000613;2020-05-30;4;206;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000614;2020-05-30;15;1385;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000615;2020-05-30;3;250;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000616;2020-05-30;5;818;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000617;2020-05-30;1023;16116;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000618;2020-05-30;24;5401;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000619;2020-05-30;182;5693;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000620;2020-05-30;9;50;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000621;2020-05-30;12;167;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000622;2020-05-30;26;470;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000623;2020-05-30;127;5549;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000624;2020-05-30;119;2540;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000625;2020-05-30;6;90;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000626;2020-05-30;26;464;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000627;2020-05-30;17;327;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000628;2020-05-30;27;696;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000629;2020-05-30;1;165;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000630;2020-05-30;17;208;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000631;2020-05-30;106;5377;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000632;2020-05-30;23;1761;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000633;2020-05-29;7;143;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000634;2020-05-29;30;2030;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000635;2020-05-29;456;1272;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000636;2020-05-29;4;950;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000637;2020-05-29;2;148;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000638;2020-05-29;45;1286;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000639;2020-05-29;1;29;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000640;2020-05-29;1445;3441;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000641;2020-05-29;28;428;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000642;2020-05-29;5;202;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000643;2020-05-29;105;2697;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000644;2020-05-29;41;709;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000645;2020-05-29;3;72;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000646;2020-05-29;10;813;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000647;2020-05-29;44;1370;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000648;2020-05-29;2;84;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000649;2020-05-29;723;15093;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000650;2020-05-29;6;21;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000651;2020-05-29;48;5271;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000652;2020-05-29;145;5422;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000653;2020-05-29;10;164;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000654;2020-05-29;31;444;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000655;2020-05-29;152;5511;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000656;2020-05-29;2;247;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000657;2020-05-29;17;669;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000658;2020-05-29;35;200;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-000659;2020-05-29;25;386;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000660;2020-05-29;17;438;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000661;2020-05-28;6;735;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000662;2020-05-28;13;33;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-000663;2020-05-28;9;729;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000664;2020-05-28;2;136;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000665;2020-05-28;1;20;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000666;2020-05-28;50;2000;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000667;2020-05-28;2;26;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000668;2020-05-28;9;170;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000669;2020-05-28;2;146;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000670;2020-05-28;8;946;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000671;2020-05-28;9;2421;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000672;2020-05-28;64;361;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000673;2020-05-28;28;5223;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000674;2020-05-28;52;1738;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000675;2020-05-28;24;1326;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000676;2020-05-28;19;400;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000677;2020-05-28;37;668;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000678;2020-05-28;3;28;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000679;2020-05-28;91;2592;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000680;2020-05-28;919;14370;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000681;2020-05-28;154;5359;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000682;2020-05-28;1;41;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000683;2020-05-28;7;803;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000684;2020-05-28;14;197;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000685;2020-05-28;3;154;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000686;2020-05-28;86;5195;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000687;2020-05-28;11;82;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000688;2020-05-28;148;5277;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000689;2020-05-28;5;42;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000690;2020-05-28;54;413;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000691;2020-05-28;45;310;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000692;2020-05-28;20;652;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000693;2020-05-28;56;1241;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000694;2020-05-28;13;421;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000695;2020-05-28;100;1686;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000696;2020-05-28;10;191;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000697;2020-05-28;131;5109;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000698;2020-05-27;67;816;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000699;2020-05-27;1;720;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000700;2020-05-27;55;1950;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000701;2020-05-27;1;1;Lesoto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000702;2020-05-27;9;938;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000703;2020-05-27;16;381;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000704;2020-05-27;4;297;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000705;2020-05-27;38;631;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000706;2020-05-27;95;2412;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000707;2020-05-27;116;2501;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000708;2020-05-27;3;24;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000709;2020-05-27;16;1302;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000710;2020-05-27;6;183;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000711;2020-05-27;710;13451;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000712;2020-05-27;178;5205;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000713;2020-05-27;56;359;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000714;2020-05-27;9;4978;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000715;2020-05-27;4;151;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000716;2020-05-27;1;245;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000717;2020-05-27;4;168;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000718;2020-05-27;211;5129;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000719;2020-05-27;443;779;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000720;2020-05-27;106;1185;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000721;2020-05-27;12;265;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000722;2020-05-27;15;632;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000723;2020-05-27;3;408;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000724;2020-05-27;88;4969;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000725;2020-05-27;21;1586;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000726;2020-05-27;14;181;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000727;2020-05-26;14;719;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000728;2020-05-26;161;749;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000729;2020-05-26;112;1895;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000730;2020-05-26;1;19;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000731;2020-05-26;1;23;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000732;2020-05-26;16;134;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000733;2020-05-26;220;2317;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000734;2020-05-26;25;365;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000735;2020-05-26;29;1286;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000736;2020-05-26;74;2385;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000737;2020-05-26;31;593;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000738;2020-05-26;64;68;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-000739;2020-05-26;16;177;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000740;2020-05-26;1;69;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000741;2020-05-26;824;12741;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000742;2020-05-26;10;796;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000743;2020-05-26;79;1996;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000744;2020-05-26;4;37;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000745;2020-05-26;59;303;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000746;2020-05-26;1;18;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000747;2020-05-26;107;4881;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000748;2020-05-26;6;244;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000749;2020-05-26;6;164;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000750;2020-05-26;171;4918;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000751;2020-05-26;127;5027;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000752;2020-05-26;6;161;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000753;2020-05-26;18;253;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000754;2020-05-26;3;405;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000755;2020-05-26;13;617;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000756;2020-05-26;50;1565;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000757;2020-05-26;8;167;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000758;2020-05-25;7;705;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000759;2020-05-25;10;929;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000760;2020-05-25;85;588;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000761;2020-05-25;82;1783;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000762;2020-05-25;27;2097;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000763;2020-05-25;3;144;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000764;2020-05-25;2;919;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000765;2020-05-25;3;340;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000766;2020-05-25;34;118;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000767;2020-05-25;7;604;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000768;2020-05-25;48;2311;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000769;2020-05-25;103;562;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000770;2020-05-25;20;161;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000771;2020-05-25;38;1257;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000772;2020-05-25;3;786;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000773;2020-05-25;37;4774;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000774;2020-05-25;1;238;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000775;2020-05-25;29;244;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000776;2020-05-25;817;11917;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000777;2020-05-25;52;1917;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000778;2020-05-25;20;71;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000779;2020-05-25;93;4900;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000780;2020-05-25;169;4747;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000781;2020-05-25;2;158;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000782;2020-05-25;15;1079;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000783;2020-05-25;1;20;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000784;2020-05-25;19;402;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000785;2020-05-25;52;293;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000786;2020-05-25;31;235;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000787;2020-05-25;8;155;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000788;2020-05-25;5;147;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000789;2020-05-25;7;159;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000790;2020-05-25;59;1515;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000791;2020-05-25;34;4737;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000792;2020-05-24;8;698;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000793;2020-05-24;45;503;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000794;2020-05-24;28;1701;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000795;2020-05-24;4;17;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000796;2020-05-24;3;917;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000797;2020-05-24;2;141;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000798;2020-05-24;11;241;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000799;2020-05-24;43;1865;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000800;2020-05-24;72;2070;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000801;2020-05-24;2;84;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000802;2020-05-24;20;337;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000803;2020-05-24;5;33;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000804;2020-05-24;31;1219;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000805;2020-05-24;10;147;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000806;2020-05-24;13;155;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000807;2020-05-24;89;2263;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000808;2020-05-24;2;25;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000809;2020-05-24;9;15;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-000810;2020-05-24;8;141;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000811;2020-05-24;8;783;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000812;2020-05-24;996;11100;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000813;2020-05-24;179;4807;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000814;2020-05-24;37;156;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000815;2020-05-24;3;139;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000816;2020-05-24;152;4578;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000817;2020-05-24;10;237;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000818;2020-05-24;17;4703;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000819;2020-05-24;1;40;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000820;2020-05-24;11;215;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000821;2020-05-24;3;383;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000822;2020-05-24;23;597;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000823;2020-05-24;4;142;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000824;2020-05-24;40;1456;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000825;2020-05-24;1;152;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000826;2020-05-24;48;4686;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000827;2020-05-23;7;690;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000828;2020-05-23;42;1673;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000829;2020-05-23;34;458;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000830;2020-05-23;3;21;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000831;2020-05-23;4;22;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000832;2020-05-23;21;82;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000833;2020-05-23;130;1822;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000834;2020-05-23;20;1998;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000835;2020-05-23;11;914;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000836;2020-05-23;167;2174;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000837;2020-05-23;5;317;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000838;2020-05-23;5;23;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-000839;2020-05-23;57;459;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000840;2020-05-23;12;133;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000841;2020-05-23;11;775;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000842;2020-05-23;42;1188;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000843;2020-05-23;8;204;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000844;2020-05-23;5;227;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000845;2020-05-23;254;4628;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000846;2020-05-23;22;142;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000847;2020-05-23;14;574;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000848;2020-05-23;65;4638;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000849;2020-05-23;1;39;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000850;2020-05-23;170;4426;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000851;2020-05-23;3;51;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000852;2020-05-23;196;4573;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000853;2020-05-23;105;1416;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000854;2020-05-23;23;151;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000855;2020-05-23;3;138;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000856;2020-05-22;4;683;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000857;2020-05-22;52;424;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000858;2020-05-22;16;1631;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000859;2020-05-22;25;230;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000860;2020-05-22;20;903;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000861;2020-05-22;27;1978;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000862;2020-05-22;1;28;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-000863;2020-05-22;10;18;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000864;2020-05-22;100;2007;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000865;2020-05-22;37;402;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000866;2020-05-22;3;38;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000867;2020-05-22;2;68;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000868;2020-05-22;46;1146;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000869;2020-05-22;11;764;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000870;2020-05-22;2;560;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000871;2020-05-22;3;121;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000872;2020-05-22;63;372;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000873;2020-05-22;14;1692;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000874;2020-05-22;9;1064;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000875;2020-05-22;157;4374;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000876;2020-05-22;1154;10104;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000877;2020-05-22;5;222;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000878;2020-05-22;2;6;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-000879;2020-05-22;7;119;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000880;2020-05-22;10;196;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000881;2020-05-22;35;120;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000882;2020-05-22;30;4377;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000883;2020-05-22;194;4256;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000884;2020-05-22;34;336;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000885;2020-05-22;5;380;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000886;2020-05-22;5;128;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000887;2020-05-22;4;135;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000888;2020-05-22;60;1311;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000889;2020-05-22;67;4347;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000890;2020-05-22;143;165;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-000891;2020-05-21;7;679;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000892;2020-05-21;40;1615;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000893;2020-05-21;5;136;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000894;2020-05-21;53;1951;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000895;2020-05-21;21;883;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000896;2020-05-21;9;312;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000897;2020-05-21;47;1907;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000898;2020-05-21;1;18;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-000899;2020-05-21;1;85;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-000900;2020-05-21;17;1100;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000901;2020-05-21;3;66;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000902;2020-05-21;15;558;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000903;2020-05-21;15;753;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000904;2020-05-21;1;217;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000905;2020-05-21;223;4217;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000906;2020-05-21;23;309;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000907;2020-05-21;8;118;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000908;2020-05-21;27;1678;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000909;2020-05-21;9;186;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000910;2020-05-21;3;1055;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000911;2020-05-21;68;4280;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000912;2020-05-21;4;61;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000913;2020-05-21;16;204;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000914;2020-05-21;9;375;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000915;2020-05-21;94;4062;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000916;2020-05-21;15;112;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000917;2020-05-21;114;4212;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000918;2020-05-21;65;1251;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000919;2020-05-21;1;123;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000920;2020-05-21;105;302;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000921;2020-05-21;20;1860;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000922;2020-05-20;3;672;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000923;2020-05-20;27;1575;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000924;2020-05-20;38;205;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000925;2020-05-20;5;137;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000926;2020-05-20;3;131;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000927;2020-05-20;28;1651;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000928;2020-05-20;36;862;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000929;2020-05-20;33;1083;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000930;2020-05-20;3;110;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000931;2020-05-20;106;1840;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000932;2020-05-20;47;365;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000933;2020-05-20;125;1898;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000934;2020-05-20;1;303;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000935;2020-05-20;4;738;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000936;2020-05-20;2;19;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000937;2020-05-20;990;8950;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000938;2020-05-20;222;3968;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000939;2020-05-20;7;216;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000940;2020-05-20;19;1052;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000941;2020-05-20;14;543;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000942;2020-05-20;38;177;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000943;2020-05-20;252;3994;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000944;2020-05-20;10;97;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000945;2020-05-20;61;4098;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000946;2020-05-20;10;188;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000947;2020-05-20;8;366;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000948;2020-05-20;2;122;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000949;2020-05-20;136;4037;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000950;2020-05-20;12;131;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-000951;2020-05-20;5;197;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000952;2020-05-20;53;1186;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000953;2020-05-20;1;14;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000954;2020-05-19;8;669;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000955;2020-05-19;23;1548;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000956;2020-05-19;3;128;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000957;2020-05-19;7;826;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000958;2020-05-19;17;318;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000959;2020-05-19;19;1773;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000960;2020-05-19;19;167;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-000961;2020-05-19;12;302;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000962;2020-05-19;90;1734;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000963;2020-05-19;39;286;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-000964;2020-05-19;2;11;Seychelles;recovered_cases_africa_ncov_2020-06-16
+Recovered-000965;2020-05-19;4;42;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-000966;2020-05-19;10;1050;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-000967;2020-05-19;20;734;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000968;2020-05-19;1;107;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000969;2020-05-19;662;7960;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000970;2020-05-19;6;209;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-000971;2020-05-19;302;3742;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-000972;2020-05-19;5;8;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-000973;2020-05-19;22;139;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-000974;2020-05-19;22;358;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000975;2020-05-19;121;3746;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000976;2020-05-19;17;529;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-000977;2020-05-19;22;132;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000978;2020-05-19;9;87;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000979;2020-05-19;11;3901;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000980;2020-05-19;2;48;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-000981;2020-05-19;15;1033;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-000982;2020-05-19;15;178;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000983;2020-05-19;132;3890;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-000984;2020-05-19;4;120;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-000985;2020-05-19;57;1133;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-000986;2020-05-19;4;57;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-000987;2020-05-18;56;1623;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-000988;2020-05-18;6;661;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-000989;2020-05-18;262;1525;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-000990;2020-05-18;5;18;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-000991;2020-05-18;2;125;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-000992;2020-05-18;18;290;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000993;2020-05-18;3;819;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-000994;2020-05-18;57;301;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-000995;2020-05-18;50;1644;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-000996;2020-05-18;2;106;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-000997;2020-05-18;292;7298;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-000998;2020-05-18;16;714;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-000999;2020-05-18;36;1040;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001000;2020-05-18;5;78;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001001;2020-05-18;6;203;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001002;2020-05-18;12;38;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001003;2020-05-18;268;3440;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001004;2020-05-18;26;3758;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001005;2020-05-18;7;148;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001006;2020-05-18;23;336;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001007;2020-05-18;11;163;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001008;2020-05-18;2;46;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001009;2020-05-18;118;3625;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001010;2020-05-18;46;1018;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001011;2020-05-18;3;27;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001012;2020-05-18;4;192;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001013;2020-05-18;5;119;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001014;2020-05-18;3;116;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001015;2020-05-18;87;3732;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001016;2020-05-18;103;1076;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001017;2020-05-17;3;655;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001018;2020-05-17;80;1263;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001019;2020-05-17;3;123;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001020;2020-05-17;18;512;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001021;2020-05-17;2;272;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001022;2020-05-17;1;18;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001023;2020-05-17;25;247;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001024;2020-05-17;9;816;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001025;2020-05-17;122;1594;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001026;2020-05-17;7;35;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001027;2020-05-17;17;1004;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001028;2020-05-17;5;104;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001029;2020-05-17;528;7006;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001030;2020-05-17;9;698;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001031;2020-05-17;6;117;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001032;2020-05-17;19;197;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001033;2020-05-17;222;3172;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001034;2020-05-17;12;313;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001035;2020-05-17;1;44;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001036;2020-05-17;1;73;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001037;2020-05-17;44;141;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001038;2020-05-17;98;3507;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001039;2020-05-17;22;972;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001040;2020-05-17;4;152;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001041;2020-05-17;5;188;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001042;2020-05-17;15;494;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001043;2020-05-17;158;3645;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001044;2020-05-17;24;973;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001045;2020-05-16;1;13;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001046;2020-05-16;8;652;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001047;2020-05-16;50;1183;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001048;2020-05-16;4;120;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001049;2020-05-16;5;807;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001050;2020-05-16;4;17;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001051;2020-05-16;294;1754;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001052;2020-05-16;22;84;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001053;2020-05-16;41;270;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001054;2020-05-16;152;1472;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001055;2020-05-16;20;110;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001056;2020-05-16;25;244;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001057;2020-05-16;6;72;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001058;2020-05-16;23;111;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001059;2020-05-16;1;178;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001060;2020-05-16;24;479;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001061;2020-05-16;395;6478;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001062;2020-05-16;45;987;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001063;2020-05-16;3;99;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001064;2020-05-16;17;222;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001065;2020-05-16;5;689;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001066;2020-05-16;151;2950;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001067;2020-05-16;1;43;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001068;2020-05-16;12;3487;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001069;2020-05-16;15;950;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001070;2020-05-16;138;3409;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001071;2020-05-16;2;114;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001072;2020-05-16;31;183;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001073;2020-05-16;17;301;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001074;2020-05-16;13;148;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001075;2020-05-16;1;113;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001076;2020-05-16;59;949;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001077;2020-05-16;92;3475;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001078;2020-05-15;9;20;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-001079;2020-05-15;40;644;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001080;2020-05-15;39;1133;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001081;2020-05-15;11;116;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001082;2020-05-15;9;22;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-001083;2020-05-15;1;4;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-001084;2020-05-15;32;802;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001085;2020-05-15;37;219;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001086;2020-05-15;1;62;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001087;2020-05-15;17;229;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001088;2020-05-15;786;1460;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001089;2020-05-15;4;112;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001090;2020-05-15;140;1320;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001091;2020-05-15;3;17;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001092;2020-05-15;1;13;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001093;2020-05-15;12;942;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001094;2020-05-15;7;684;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001095;2020-05-15;15;66;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001096;2020-05-15;113;3271;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001097;2020-05-15;2;12;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001098;2020-05-15;9;177;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001099;2020-05-15;1338;6083;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001100;2020-05-15;1;39;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001101;2020-05-15;5;88;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001102;2020-05-15;173;2799;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001103;2020-05-15;30;935;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001104;2020-05-15;19;455;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001105;2020-05-15;28;152;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001106;2020-05-15;48;890;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001107;2020-05-15;73;3383;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001108;2020-05-15;1;13;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001109;2020-05-15;7;42;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001110;2020-05-15;4;112;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001111;2020-05-14;199;1094;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001112;2020-05-14;3;90;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001113;2020-05-14;9;604;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001114;2020-05-14;14;1567;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001115;2020-05-14;7;205;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001116;2020-05-14;1;3;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-001117;2020-05-14;11;770;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001118;2020-05-14;55;212;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001119;2020-05-14;110;1180;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001120;2020-05-14;1;108;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001121;2020-05-14;160;674;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001122;2020-05-14;20;182;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001123;2020-05-14;28;930;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001124;2020-05-14;5;905;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001125;2020-05-14;29;677;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001126;2020-05-14;2;63;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001127;2020-05-14;4;168;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001128;2020-05-14;24;436;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001129;2020-05-14;100;3158;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001130;2020-05-14;5;83;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001131;2020-05-14;140;2626;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001132;2020-05-14;88;3310;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001133;2020-05-14;34;87;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001134;2020-05-14;3;284;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001135;2020-05-14;3;51;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001136;2020-05-14;5;135;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001137;2020-05-14;1;12;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001138;2020-05-14;91;3222;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001139;2020-05-14;60;842;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001140;2020-05-13;3;595;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001141;2020-05-13;39;895;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001142;2020-05-13;4;105;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001143;2020-05-13;8;1553;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001144;2020-05-13;25;198;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001145;2020-05-13;19;759;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001146;2020-05-13;9;157;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001147;2020-05-13;1;13;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001148;2020-05-13;111;1070;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001149;2020-05-13;25;162;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001150;2020-05-13;5;61;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001151;2020-05-13;25;97;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001152;2020-05-13;388;4745;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001153;2020-05-13;82;902;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001154;2020-05-13;2;3;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-001155;2020-05-13;11;164;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001156;2020-05-13;14;900;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001157;2020-05-13;14;412;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001158;2020-05-13;20;514;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001159;2020-05-13;22;281;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001160;2020-05-13;6;61;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001161;2020-05-13;160;2486;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001162;2020-05-13;60;3058;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001163;2020-05-13;20;48;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001164;2020-05-13;32;3131;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001165;2020-05-13;4;130;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001166;2020-05-13;1;35;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001167;2020-05-13;2;78;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001168;2020-05-13;2;108;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001169;2020-05-13;2;107;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001170;2020-05-13;108;3099;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001171;2020-05-13;7;124;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001172;2020-05-13;16;782;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001173;2020-05-12;21;1545;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001174;2020-05-12;8;592;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001175;2020-05-12;40;856;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001176;2020-05-12;15;101;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001177;2020-05-12;57;959;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001178;2020-05-12;13;740;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001179;2020-05-12;2;148;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001180;2020-05-12;12;173;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001181;2020-05-12;1;14;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001182;2020-05-12;7;96;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001183;2020-05-12;2;820;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001184;2020-05-12;11;648;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001185;2020-05-12;3;153;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001186;2020-05-12;23;76;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001187;2020-05-12;61;2991;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001188;2020-05-12;154;2326;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001189;2020-05-12;10;137;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001190;2020-05-12;14;886;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001191;2020-05-12;157;2998;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001192;2020-05-12;21;398;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001193;2020-05-12;5;126;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001194;2020-05-12;8;259;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001195;2020-05-12;119;2930;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001196;2020-05-12;4;11;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-001197;2020-05-12;27;742;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001198;2020-05-12;5;17;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001199;2020-05-12;1;106;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001200;2020-05-11;24;766;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001201;2020-05-11;45;816;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001202;2020-05-11;59;1524;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001203;2020-05-11;1;86;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001204;2020-05-11;3;12;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001205;2020-05-11;27;727;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001206;2020-05-11;5;146;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001207;2020-05-11;124;902;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001208;2020-05-11;12;161;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001209;2020-05-11;17;127;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001210;2020-05-11;13;637;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001211;2020-05-11;2;322;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001212;2020-05-11;4;28;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001213;2020-05-11;1;38;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001214;2020-05-11;7;584;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001215;2020-05-11;10;150;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001216;2020-05-11;25;872;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001217;2020-05-11;24;818;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001218;2020-05-11;1;10;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001219;2020-05-11;26;377;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001220;2020-05-11;52;2811;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001221;2020-05-11;5;72;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001222;2020-05-11;163;2841;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001223;2020-05-11;1;28;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001224;2020-05-11;10;24;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001225;2020-05-11;97;2172;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001226;2020-05-11;12;251;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001227;2020-05-11;3;121;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001228;2020-05-11;184;4357;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001229;2020-05-11;1;105;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001230;2020-05-11;205;2759;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001231;2020-05-11;6;105;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001232;2020-05-11;65;715;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001233;2020-05-10;57;771;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001234;2020-05-10;116;494;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001235;2020-05-10;3;53;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001236;2020-05-10;40;700;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001237;2020-05-10;5;141;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001238;2020-05-10;33;778;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001239;2020-05-10;30;149;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001240;2020-05-10;3;104;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001241;2020-05-10;1;26;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001242;2020-05-10;2;89;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001243;2020-05-10;13;847;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001244;2020-05-10;190;4173;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001245;2020-05-10;7;624;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001246;2020-05-10;25;794;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001247;2020-05-10;9;67;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001248;2020-05-10;9;2554;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001249;2020-05-10;73;2075;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001250;2020-05-10;132;2678;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001251;2020-05-10;32;239;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001252;2020-05-10;53;351;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001253;2020-05-10;8;118;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001254;2020-05-10;13;27;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001255;2020-05-10;5;117;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001256;2020-05-10;7;650;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001257;2020-05-10;2;99;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001258;2020-05-10;84;2545;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001259;2020-05-10;219;1465;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001260;2020-05-10;2;11;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001261;2020-05-09;6;85;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001262;2020-05-09;16;714;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001263;2020-05-09;8;577;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001264;2020-05-09;22;660;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001265;2020-05-09;6;136;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001266;2020-05-09;17;119;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001267;2020-05-09;15;769;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001268;2020-05-09;66;745;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001269;2020-05-09;11;1232;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001270;2020-05-09;55;378;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001271;2020-05-09;17;617;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001272;2020-05-09;3;53;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001273;2020-05-09;5;50;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001274;2020-05-09;4;58;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001275;2020-05-09;3;12;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001276;2020-05-09;4;140;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001277;2020-05-09;57;2002;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001278;2020-05-09;72;2461;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001279;2020-05-09;10;834;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001280;2020-05-09;13;298;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001281;2020-05-09;2;87;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001282;2020-05-09;79;2546;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001283;2020-05-09;1;14;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001284;2020-05-09;830;3983;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001285;2020-05-09;7;34;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001286;2020-05-09;4;110;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001287;2020-05-09;5;207;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001288;2020-05-09;65;2389;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001289;2020-05-09;2;97;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001290;2020-05-09;32;643;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001291;2020-05-09;1;112;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001292;2020-05-08;14;1246;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001293;2020-05-08;3;569;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001294;2020-05-08;35;698;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001295;2020-05-08;4;9;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001296;2020-05-08;38;638;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001297;2020-05-08;1;9;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001298;2020-05-08;18;56;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001299;2020-05-08;12;45;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001300;2020-05-08;78;679;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001301;2020-05-08;11;130;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001302;2020-05-08;14;285;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001303;2020-05-08;14;600;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001304;2020-05-08;22;2324;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001305;2020-05-08;58;1945;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001306;2020-05-08;3;27;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001307;2020-05-08;7;37;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001308;2020-05-08;3;136;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001309;2020-05-08;25;824;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001310;2020-05-08;20;323;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001311;2020-05-08;2;13;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001312;2020-05-08;10;102;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001313;2020-05-08;144;2467;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001314;2020-05-08;8;111;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001315;2020-05-08;5;202;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001316;2020-05-08;2;95;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001317;2020-05-08;49;611;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001318;2020-05-08;123;2302;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001319;2020-05-07;2;12;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001320;2020-05-07;34;663;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001321;2020-05-07;4;566;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001322;2020-05-07;12;754;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001323;2020-05-07;219;1221;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001324;2020-05-07;9;600;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001325;2020-05-07;1;9;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001326;2020-05-07;16;119;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001327;2020-05-07;67;601;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001328;2020-05-07;1;25;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001329;2020-05-07;11;110;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001330;2020-05-07;21;742;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001331;2020-05-07;25;586;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001332;2020-05-07;3;133;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001333;2020-05-07;3;33;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001334;2020-05-07;44;799;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001335;2020-05-07;3;24;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001336;2020-05-07;7;50;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001337;2020-05-07;12;106;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001338;2020-05-07;72;1887;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001339;2020-05-07;55;2179;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001340;2020-05-07;2;103;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001341;2020-05-07;126;2323;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001342;2020-05-07;8;85;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001343;2020-05-07;10;271;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001344;2020-05-07;7;197;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001345;2020-05-07;7;94;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001346;2020-05-07;107;2124;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001347;2020-05-07;69;562;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001348;2020-05-07;9;303;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001349;2020-05-06;4;79;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001350;2020-05-06;32;629;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001351;2020-05-06;7;562;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001352;2020-05-06;2;1002;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001353;2020-05-06;9;101;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001354;2020-05-06;12;92;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001355;2020-05-06;3;53;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-001356;2020-05-06;11;103;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001357;2020-05-06;109;591;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001358;2020-05-06;2;2;Sudán del Sur;recovered_cases_africa_ncov_2020-06-16
+Recovered-001359;2020-05-06;53;534;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001360;2020-05-06;6;99;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001361;2020-05-06;1;320;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001362;2020-05-06;20;721;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001363;2020-05-06;1;38;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001364;2020-05-06;18;561;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001365;2020-05-06;407;3153;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001366;2020-05-06;1;130;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001367;2020-05-06;7;555;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001368;2020-05-06;4;30;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001369;2020-05-06;9;755;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001370;2020-05-06;48;2017;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001371;2020-05-06;1;13;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001372;2020-05-06;3;77;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001373;2020-05-06;5;14;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001374;2020-05-06;85;1815;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001375;2020-05-06;2;21;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001376;2020-05-06;130;2197;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001377;2020-05-06;12;87;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001378;2020-05-06;8;190;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001379;2020-05-06;11;54;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001380;2020-05-06;33;261;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001381;2020-05-06;2;101;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001382;2020-05-06;23;493;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001383;2020-05-06;131;1969;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001384;2020-05-06;2;93;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001385;2020-05-05;1;1;Comoras;recovered_cases_africa_ncov_2020-06-16
+Recovered-001386;2020-05-05;99;597;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001387;2020-05-05;10;80;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001388;2020-05-05;17;75;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001389;2020-05-05;47;1000;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001390;2020-05-05;2;92;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001391;2020-05-05;64;481;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001392;2020-05-05;3;9;Seychelles;recovered_cases_africa_ncov_2020-06-16
+Recovered-001393;2020-05-05;76;482;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001394;2020-05-05;4;13;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-001395;2020-05-05;5;24;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001396;2020-05-05;3;319;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001397;2020-05-05;1;24;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001398;2020-05-05;1;99;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001399;2020-05-05;9;543;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001400;2020-05-05;8;701;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001401;2020-05-05;1;129;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001402;2020-05-05;39;1838;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001403;2020-05-05;4;30;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001404;2020-05-05;4;43;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001405;2020-05-05;33;746;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001406;2020-05-05;98;1730;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001407;2020-05-05;69;2067;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001408;2020-05-05;17;182;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001409;2020-05-05;5;228;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001410;2020-05-05;6;43;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001411;2020-05-05;14;75;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001412;2020-05-05;14;92;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001413;2020-05-05;16;91;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001414;2020-05-05;146;1799;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001415;2020-05-05;55;470;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001416;2020-05-04;48;498;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001417;2020-05-04;3;548;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001418;2020-05-04;9;70;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001419;2020-05-04;10;90;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001420;2020-05-04;17;417;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001421;2020-05-04;78;406;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001422;2020-05-04;8;93;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001423;2020-05-04;1;23;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001424;2020-05-04;16;534;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001425;2020-05-04;4;128;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001426;2020-05-04;1;26;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001427;2020-05-04;40;693;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001428;2020-05-04;65;294;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001429;2020-05-04;197;2746;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001430;2020-05-04;1;316;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001431;2020-05-04;4;37;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001432;2020-05-04;88;1653;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001433;2020-05-04;62;1998;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001434;2020-05-04;70;1632;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001435;2020-05-04;27;713;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001436;2020-05-04;17;61;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001437;2020-05-04;3;55;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001438;2020-05-04;10;223;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001439;2020-05-04;8;37;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001440;2020-05-04;7;74;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001441;2020-05-04;127;1565;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001442;2020-05-04;43;415;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001443;2020-05-04;8;50;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-001444;2020-05-03;5;545;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001445;2020-05-03;13;450;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001446;2020-05-03;9;61;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001447;2020-05-03;15;33;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001448;2020-05-03;5;328;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001449;2020-05-03;15;400;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001450;2020-05-03;1;315;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001451;2020-05-03;4;22;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001452;2020-05-03;31;653;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001453;2020-05-03;11;518;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001454;2020-05-03;5;80;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001455;2020-05-03;40;1562;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001456;2020-05-03;4;124;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001457;2020-05-03;15;165;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001458;2020-05-03;182;1438;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001459;2020-05-03;64;1936;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001460;2020-05-03;10;44;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001461;2020-05-03;2;29;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001462;2020-05-03;7;213;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001463;2020-05-03;1;67;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001464;2020-05-03;1;19;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001465;2020-05-03;4;98;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001466;2020-05-03;3;78;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001467;2020-05-03;4;372;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001468;2020-05-03;6;75;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001469;2020-05-02;10;58;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001470;2020-05-02;5;540;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001471;2020-05-02;32;437;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001472;2020-05-02;34;385;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001473;2020-05-02;7;323;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001474;2020-05-02;7;85;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001475;2020-05-02;2;314;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001476;2020-05-02;6;52;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001477;2020-05-02;18;535;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001478;2020-05-02;29;507;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001479;2020-05-02;25;622;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001480;2020-05-02;167;2549;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001481;2020-05-02;11;120;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001482;2020-05-02;4;11;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001483;2020-05-02;6;39;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001484;2020-05-02;51;1872;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001485;2020-05-02;21;1256;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001486;2020-05-02;62;1522;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001487;2020-05-02;10;206;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001488;2020-05-02;17;229;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001489;2020-05-02;3;34;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001490;2020-05-02;6;27;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001491;2020-05-02;14;686;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001492;2020-05-02;8;18;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001493;2020-05-02;12;368;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001494;2020-05-02;3;7;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-001495;2020-05-02;1;75;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001496;2020-05-02;180;1235;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001497;2020-05-02;3;69;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001498;2020-05-01;19;953;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001499;2020-05-01;3;48;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001500;2020-05-01;63;405;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001501;2020-05-01;42;1821;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001502;2020-05-01;1;9;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001503;2020-05-01;7;46;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001504;2020-05-01;32;351;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001505;2020-05-01;23;597;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001506;2020-05-01;11;78;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001507;2020-05-01;11;316;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001508;2020-05-01;2;75;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001509;2020-05-01;14;18;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001510;2020-05-01;2;312;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001511;2020-05-01;309;2382;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001512;2020-05-01;26;478;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001513;2020-05-01;9;42;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-001514;2020-05-01;6;25;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001515;2020-05-01;5;109;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001516;2020-05-01;79;1460;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001517;2020-05-01;61;196;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001518;2020-05-01;1;66;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001519;2020-05-01;30;672;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001520;2020-05-01;6;150;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001521;2020-05-01;3;8;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001522;2020-05-01;4;94;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001523;2020-05-01;71;1055;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001524;2020-05-01;19;74;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001525;2020-05-01;2;9;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001526;2020-05-01;22;356;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001527;2020-05-01;7;66;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001528;2020-04-30;11;517;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001529;2020-04-30;13;342;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001530;2020-04-30;9;21;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001531;2020-04-30;12;319;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001532;2020-04-30;8;73;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001533;2020-04-30;11;305;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001534;2020-04-30;2;4;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001535;2020-04-30;14;33;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001536;2020-04-30;7;310;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001537;2020-04-30;8;90;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001538;2020-04-30;6;104;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001539;2020-04-30;1;65;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001540;2020-04-30;7;39;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001541;2020-04-30;17;452;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001542;2020-04-30;17;574;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001543;2020-04-30;7;26;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001544;2020-04-30;15;984;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001545;2020-04-30;43;642;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001546;2020-04-30;1;10;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001547;2020-04-30;6;135;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001548;2020-04-30;46;1381;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001549;2020-04-30;77;1779;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001550;2020-04-30;1;59;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001551;2020-04-30;1;55;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001552;2020-04-30;11;31;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001553;2020-04-30;2;12;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001554;2020-04-30;15;144;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001555;2020-04-30;24;212;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001556;2020-04-30;41;969;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001557;2020-04-30;21;334;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001558;2020-04-29;8;506;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001559;2020-04-29;16;329;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001560;2020-04-29;6;65;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001561;2020-04-29;78;294;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001562;2020-04-29;52;307;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001563;2020-04-29;14;67;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001564;2020-04-29;1;19;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001565;2020-04-29;22;498;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001566;2020-04-29;1;2073;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001567;2020-04-29;19;934;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001568;2020-04-29;50;435;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001569;2020-04-29;32;557;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001570;2020-04-29;7;82;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001571;2020-04-29;2;7;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001572;2020-04-29;3;98;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001573;2020-04-29;119;167;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-001574;2020-04-29;38;928;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001575;2020-04-29;1;32;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001576;2020-04-29;31;1335;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001577;2020-04-29;51;1702;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001578;2020-04-29;101;599;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001579;2020-04-29;1;64;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001580;2020-04-29;1;20;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001581;2020-04-29;7;129;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001582;2020-04-29;5;129;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001583;2020-04-29;8;58;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001584;2020-04-29;112;890;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001585;2020-04-29;12;54;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001586;2020-04-29;17;313;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001587;2020-04-29;599;2072;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001588;2020-04-29;5;5;Botsuana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001589;2020-04-28;44;313;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001590;2020-04-28;3;59;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001591;2020-04-28;110;915;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001592;2020-04-28;26;525;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001593;2020-04-28;10;53;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001594;2020-04-28;1;63;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001595;2020-04-28;1;7;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001596;2020-04-28;15;18;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001597;2020-04-28;1;303;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001598;2020-04-28;93;1651;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001599;2020-04-28;4;19;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001600;2020-04-28;9;122;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001601;2020-04-28;2;95;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001602;2020-04-28;33;188;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001603;2020-04-28;6;19;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001604;2020-04-28;39;778;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001605;2020-04-28;68;1304;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001606;2020-04-28;10;31;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001607;2020-04-28;20;45;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001608;2020-04-28;5;19;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001609;2020-04-28;2;12;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001610;2020-04-28;21;498;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001611;2020-04-28;1;5;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001612;2020-04-28;10;124;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001613;2020-04-28;44;739;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001614;2020-04-28;6;52;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001615;2020-04-28;12;296;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001616;2020-04-27;7;476;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001617;2020-04-27;23;269;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001618;2020-04-27;19;805;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001619;2020-04-27;16;255;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001620;2020-04-27;6;56;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001621;2020-04-27;1;113;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001622;2020-04-27;13;43;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001623;2020-04-27;31;499;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001624;2020-04-27;35;385;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001625;2020-04-27;4;4;Santo Tomé y Príncipe;recovered_cases_africa_ncov_2020-06-16
+Recovered-001626;2020-04-27;1;2;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-001627;2020-04-27;16;469;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001628;2020-04-27;1;93;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001629;2020-04-27;1;21;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001630;2020-04-27;3;302;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001631;2020-04-27;50;1558;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001632;2020-04-27;13;75;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001633;2020-04-27;30;695;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001634;2020-04-27;1;9;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-001635;2020-04-27;60;1236;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001636;2020-04-27;4;14;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001637;2020-04-27;66;477;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001638;2020-04-27;9;50;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001639;2020-04-27;8;114;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001640;2020-04-27;1;284;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001641;2020-04-27;72;665;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001642;2020-04-27;17;239;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001643;2020-04-26;89;786;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001644;2020-04-26;21;246;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001645;2020-04-26;3;5;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001646;2020-04-26;9;216;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001647;2020-04-26;14;299;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001648;2020-04-26;6;33;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-001649;2020-04-26;19;468;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001650;2020-04-26;25;350;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001651;2020-04-26;29;1508;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001652;2020-04-26;4;92;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001653;2020-04-26;21;112;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001654;2020-04-26;36;593;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001655;2020-04-26;62;1176;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001656;2020-04-26;1;20;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001657;2020-04-26;8;106;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001658;2020-04-26;38;411;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001659;2020-04-26;21;155;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001660;2020-04-26;7;283;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001661;2020-04-26;20;557;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001662;2020-04-26;1;8;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001663;2020-04-26;12;41;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001664;2020-04-25;17;225;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001665;2020-04-25;11;453;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001666;2020-04-25;14;222;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001667;2020-04-25;1;50;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001668;2020-04-25;13;207;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001669;2020-04-25;4;30;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001670;2020-04-25;3;62;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001671;2020-04-25;30;449;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001672;2020-04-25;36;325;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001673;2020-04-25;1;88;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001674;2020-04-25;1;62;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001675;2020-04-25;71;1479;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001676;2020-04-25;4;91;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001677;2020-04-25;7;15;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001678;2020-04-25;39;1114;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001679;2020-04-25;39;537;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001680;2020-04-25;5;19;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001681;2020-04-25;2;13;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001682;2020-04-25;2;10;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001683;2020-04-25;43;373;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001684;2020-04-25;29;697;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001685;2020-04-25;4;98;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001686;2020-04-25;4;29;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001687;2020-04-25;5;42;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001688;2020-04-25;14;276;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001689;2020-04-25;12;498;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001690;2020-04-24;17;208;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001691;2020-04-24;17;442;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001692;2020-04-24;1;4;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001693;2020-04-24;11;208;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001694;2020-04-24;1;49;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001695;2020-04-24;37;48;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-001696;2020-04-24;4;194;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001697;2020-04-24;2;26;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001698;2020-04-24;3;61;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001699;2020-04-24;6;58;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001700;2020-04-24;19;285;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001701;2020-04-24;33;289;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001702;2020-04-24;53;1408;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001703;2020-04-24;60;419;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001704;2020-04-24;2;8;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001705;2020-04-24;8;486;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001706;2020-04-24;1;9;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001707;2020-04-24;3;19;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001708;2020-04-24;78;330;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001709;2020-04-24;71;1075;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001710;2020-04-24;10;87;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001711;2020-04-24;5;94;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001712;2020-04-24;14;134;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001713;2020-04-24;22;478;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001714;2020-04-24;5;262;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001715;2020-04-24;4;25;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001716;2020-04-23;15;425;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001717;2020-04-23;21;191;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001718;2020-04-23;21;120;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001719;2020-04-23;5;25;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001720;2020-04-23;1;48;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001721;2020-04-23;49;359;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001722;2020-04-23;63;256;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001723;2020-04-23;8;52;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001724;2020-04-23;5;266;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001725;2020-04-23;3;18;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001726;2020-04-23;151;1355;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001727;2020-04-23;5;11;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001728;2020-04-23;418;1473;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001729;2020-04-23;3;87;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001730;2020-04-23;26;456;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001731;2020-04-23;3;59;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001732;2020-04-23;273;668;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001733;2020-04-23;16;89;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001734;2020-04-23;1;46;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001735;2020-04-23;2;37;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001736;2020-04-23;6;8;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001737;2020-04-23;4;77;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001738;2020-04-23;6;73;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001739;2020-04-23;69;252;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001740;2020-04-23;1;7;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001741;2020-04-23;4;10;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001742;2020-04-23;13;430;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001743;2020-04-23;4;257;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001744;2020-04-23;2;14;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001745;2020-04-22;21;410;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001746;2020-04-22;3;44;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001747;2020-04-22;69;1004;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001748;2020-04-22;6;170;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001749;2020-04-22;2;47;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001750;2020-04-22;20;190;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001751;2020-04-22;8;24;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001752;2020-04-22;1;8;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-001753;2020-04-22;66;395;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001754;2020-04-22;66;193;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001755;2020-04-22;37;261;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001756;2020-04-22;52;1204;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001757;2020-04-22;7;310;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001758;2020-04-22;4;12;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001759;2020-04-22;65;935;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001760;2020-04-22;4;6;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001761;2020-04-22;19;417;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001762;2020-04-22;4;45;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001763;2020-04-22;16;73;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001764;2020-04-22;71;183;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001765;2020-04-22;5;398;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001766;2020-04-22;11;253;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001767;2020-04-22;5;21;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001768;2020-04-22;3;41;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001769;2020-04-22;1;6;Seychelles;recovered_cases_africa_ncov_2020-06-16
+Recovered-001770;2020-04-21;27;389;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001771;2020-04-21;37;164;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001772;2020-04-21;13;20;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001773;2020-04-21;22;170;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001774;2020-04-21;9;197;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001775;2020-04-21;10;45;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001776;2020-04-21;1;6;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001777;2020-04-21;53;1152;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001778;2020-04-21;4;15;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001779;2020-04-21;9;16;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001780;2020-04-21;3;127;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001781;2020-04-21;3;6;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001782;2020-04-21;4;84;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001783;2020-04-21;49;870;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001784;2020-04-21;3;56;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001785;2020-04-21;16;303;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001786;2020-04-21;34;393;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001787;2020-04-21;2;10;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001788;2020-04-21;9;359;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001789;2020-04-21;5;127;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001790;2020-04-21;1;57;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001791;2020-04-21;4;4;Burundi;recovered_cases_africa_ncov_2020-06-16
+Recovered-001792;2020-04-21;7;242;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001793;2020-04-20;2;41;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001794;2020-04-20;5;362;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001795;2020-04-20;10;112;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001796;2020-04-20;24;329;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001797;2020-04-20;18;188;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001798;2020-04-20;8;35;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001799;2020-04-20;105;148;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-001800;2020-04-20;18;38;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001801;2020-04-20;7;124;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001802;2020-04-20;27;287;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001803;2020-04-20;152;1055;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001804;2020-04-20;4;80;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001805;2020-04-20;52;1099;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001806;2020-04-20;10;350;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001807;2020-04-20;5;8;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001808;2020-04-20;14;56;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001809;2020-04-20;16;224;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001810;2020-04-20;89;821;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001811;2020-04-20;4;8;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001812;2020-04-20;9;27;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-001813;2020-04-20;6;6;Sierra Leona;recovered_cases_africa_ncov_2020-06-16
+Recovered-001814;2020-04-20;2;35;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001815;2020-04-20;1;53;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001816;2020-04-20;13;340;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001817;2020-04-20;15;235;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001818;2020-04-19;19;357;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001819;2020-04-19;35;122;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001820;2020-04-19;4;170;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001821;2020-04-19;3;7;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-001822;2020-04-19;21;260;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001823;2020-04-19;4;39;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001824;2020-04-19;153;1047;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001825;2020-04-19;5;16;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001826;2020-04-19;4;117;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001827;2020-04-19;7;76;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001828;2020-04-19;31;732;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001829;2020-04-19;5;327;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001830;2020-04-19;26;102;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001831;2020-04-19;7;67;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001832;2020-04-19;1;42;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001833;2020-04-19;28;208;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001834;2020-04-19;3;52;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001835;2020-04-19;8;322;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001836;2020-04-19;9;220;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001837;2020-04-18;22;87;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001838;2020-04-18;17;338;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001839;2020-04-18;4;6;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-001840;2020-04-18;141;305;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001841;2020-04-18;1;27;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001842;2020-04-18;7;166;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001843;2020-04-18;5;10;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001844;2020-04-18;7;41;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001845;2020-04-18;3;3;Malaui;recovered_cases_africa_ncov_2020-06-16
+Recovered-001846;2020-04-18;3;113;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001847;2020-04-18;19;239;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001848;2020-04-18;2;35;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001849;2020-04-18;72;180;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001850;2020-04-18;48;894;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001851;2020-04-18;4;69;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001852;2020-04-18;3;3;Eritrea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001853;2020-04-18;16;314;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001854;2020-04-18;55;701;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001855;2020-04-18;6;65;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001856;2020-04-18;16;99;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001857;2020-04-18;1;49;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001858;2020-04-18;7;60;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001859;2020-04-18;2;4;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001860;2020-04-18;1;16;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001861;2020-04-18;3;33;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001862;2020-04-18;13;211;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001863;2020-04-18;17;298;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001864;2020-04-18;2;6;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001865;2020-04-17;27;321;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001866;2020-04-17;1;26;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001867;2020-04-17;7;159;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001868;2020-04-17;5;65;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001869;2020-04-17;27;108;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001870;2020-04-17;1;7;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001871;2020-04-17;5;110;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001872;2020-04-17;27;220;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001873;2020-04-17;3;76;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001874;2020-04-17;3;8;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001875;2020-04-17;8;281;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001876;2020-04-17;63;846;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001877;2020-04-17;10;59;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001878;2020-04-17;50;646;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001879;2020-04-17;10;152;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001880;2020-04-17;3;7;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001881;2020-04-17;3;48;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001882;2020-04-17;4;198;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001883;2020-04-17;24;273;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001884;2020-04-17;10;142;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001885;2020-04-16;37;294;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001886;2020-04-16;30;81;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001887;2020-04-16;1;2;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001888;2020-04-16;2;25;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001889;2020-04-16;31;257;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001890;2020-04-16;1;3;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-001891;2020-04-16;4;132;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001892;2020-04-16;4;33;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001893;2020-04-16;1;5;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001894;2020-04-16;6;60;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001895;2020-04-16;1;6;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001896;2020-04-16;47;193;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001897;2020-04-16;8;105;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001898;2020-04-16;2;164;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001899;2020-04-16;493;903;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-001900;2020-04-16;75;783;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001901;2020-04-16;43;596;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001902;2020-04-16;2;249;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001903;2020-04-16;2;73;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001904;2020-04-16;3;5;Seychelles;recovered_cases_africa_ncov_2020-06-16
+Recovered-001905;2020-04-16;12;20;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001906;2020-04-16;10;45;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001907;2020-04-16;4;194;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001908;2020-04-16;18;247;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001909;2020-04-16;2;11;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001910;2020-04-16;1;4;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001911;2020-04-15;1;4;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-001912;2020-04-15;8;49;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001913;2020-04-15;66;83;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001914;2020-04-15;29;128;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001915;2020-04-15;2;23;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001916;2020-04-15;4;11;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-001917;2020-04-15;7;97;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001918;2020-04-15;32;146;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001919;2020-04-15;17;708;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001920;2020-04-15;3;5;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-001921;2020-04-15;39;553;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001922;2020-04-15;6;29;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001923;2020-04-15;5;54;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001924;2020-04-15;11;229;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001925;2020-04-15;3;35;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001926;2020-04-15;18;71;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001927;2020-04-15;12;53;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001928;2020-04-15;1;218;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001929;2020-04-15;7;190;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001930;2020-04-15;1;15;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001931;2020-04-14;49;226;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001932;2020-04-14;10;41;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001933;2020-04-14;1;21;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001934;2020-04-14;2;23;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001935;2020-04-14;1;5;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-001936;2020-04-14;1;11;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001937;2020-04-14;9;51;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001938;2020-04-14;90;691;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001939;2020-04-14;8;99;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001940;2020-04-14;1;1;Zimbabue;recovered_cases_africa_ncov_2020-06-16
+Recovered-001941;2020-04-14;4;90;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001942;2020-04-14;32;162;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001943;2020-04-14;4;5;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-001944;2020-04-14;25;114;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001945;2020-04-14;2;2;Seychelles;recovered_cases_africa_ncov_2020-06-16
+Recovered-001946;2020-04-14;8;34;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001947;2020-04-14;13;17;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-001948;2020-04-14;12;53;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001949;2020-04-14;7;217;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001950;2020-04-14;3;32;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001951;2020-04-14;7;49;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001952;2020-04-14;26;514;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001953;2020-04-14;1;21;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001954;2020-04-14;13;18;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-001955;2020-04-14;1;8;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001956;2020-04-14;1;41;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001957;2020-04-14;5;183;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001958;2020-04-14;7;210;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001959;2020-04-13;7;177;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001960;2020-04-13;11;86;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001961;2020-04-13;17;42;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001962;2020-04-13;3;3;Guinea-Bisáu;recovered_cases_africa_ncov_2020-06-16
+Recovered-001963;2020-04-13;14;31;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-001964;2020-04-13;3;20;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001965;2020-04-13;32;130;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-001966;2020-04-13;2;10;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001967;2020-04-13;4;89;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001968;2020-04-13;5;91;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001969;2020-04-13;1;86;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001970;2020-04-13;1;26;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001971;2020-04-13;1;2;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-001972;2020-04-13;10;601;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001973;2020-04-13;41;488;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001974;2020-04-13;7;203;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001975;2020-04-13;1;9;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001976;2020-04-13;5;41;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-001977;2020-04-13;1;8;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001978;2020-04-13;15;40;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001979;2020-04-13;4;14;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-001980;2020-04-13;7;178;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-001981;2020-04-13;19;196;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001982;2020-04-12;9;170;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-001983;2020-04-12;2;7;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-001984;2020-04-12;1;17;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001985;2020-04-12;27;85;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-001986;2020-04-12;15;85;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-001987;2020-04-12;3;8;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-001988;2020-04-12;25;75;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-001989;2020-04-12;1;2;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001990;2020-04-12;21;447;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-001991;2020-04-12;4;7;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001992;2020-04-12;7;25;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-001993;2020-04-12;24;177;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-001994;2020-04-12;14;42;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-001995;2020-04-12;3;25;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-001996;2020-04-12;131;591;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001997;2020-04-12;9;20;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-001998;2020-04-12;1;4;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-001999;2020-04-12;4;29;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002000;2020-04-12;1;25;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002001;2020-04-12;2;30;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002002;2020-04-12;7;153;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002003;2020-04-12;19;171;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002004;2020-04-11;6;161;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002005;2020-04-11;2;4;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-002006;2020-04-11;12;70;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002007;2020-04-11;4;58;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002008;2020-04-11;5;28;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-002009;2020-04-11;9;50;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-002010;2020-04-11;42;426;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002011;2020-04-11;11;18;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-002012;2020-04-11;5;146;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002013;2020-04-11;55;460;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002014;2020-04-11;18;43;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-002015;2020-04-11;3;3;Uganda;recovered_cases_africa_ncov_2020-06-16
+Recovered-002016;2020-04-11;2;24;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002017;2020-04-11;19;141;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002018;2020-04-11;3;28;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002019;2020-04-11;6;10;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-002020;2020-04-11;15;152;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002021;2020-04-10;38;98;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-002022;2020-04-10;6;155;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002023;2020-04-10;6;17;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-002024;2020-04-10;3;16;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002025;2020-04-10;2;54;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002026;2020-04-10;7;58;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002027;2020-04-10;1;41;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-002028;2020-04-10;1;4;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-002029;2020-04-10;79;384;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002030;2020-04-10;8;122;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002031;2020-04-10;57;405;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002032;2020-04-10;365;410;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-002033;2020-04-10;1;25;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002034;2020-04-10;1;25;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002035;2020-04-10;8;36;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002036;2020-04-10;13;22;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002037;2020-04-10;5;114;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002038;2020-04-10;14;137;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002039;2020-04-09;3;149;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002040;2020-04-09;6;8;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002041;2020-04-09;2;2;Angola;recovered_cases_africa_ncov_2020-06-16
+Recovered-002042;2020-04-09;3;13;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002043;2020-04-09;6;22;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-002044;2020-04-09;4;23;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-002045;2020-04-09;7;51;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002046;2020-04-09;12;40;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-002047;2020-04-09;4;52;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002048;2020-04-09;111;348;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002049;2020-04-09;1;24;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002050;2020-04-09;12;109;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002051;2020-04-09;17;24;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002052;2020-04-09;3;28;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002053;2020-04-09;10;123;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002054;2020-04-09;4;97;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002055;2020-04-08;12;146;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002056;2020-04-08;6;11;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-002057;2020-04-08;5;10;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002058;2020-04-08;3;7;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-002059;2020-04-08;11;19;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-002060;2020-04-08;9;44;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002061;2020-04-08;29;305;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002062;2020-04-08;124;237;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002063;2020-04-08;7;48;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002064;2020-04-08;7;25;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002065;2020-04-08;2;9;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002066;2020-04-08;4;16;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-002067;2020-04-08;4;7;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002068;2020-04-08;4;11;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-002069;2020-04-08;8;113;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002070;2020-04-07;7;134;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002071;2020-04-07;1;2;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002072;2020-04-07;23;113;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002073;2020-04-07;2;28;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-002074;2020-04-07;5;7;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-002075;2020-04-07;17;276;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002076;2020-04-07;1;1;Libia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002077;2020-04-07;5;93;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002078;2020-04-07;4;8;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-002079;2020-04-07;4;7;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002080;2020-04-07;1;23;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002081;2020-04-07;43;60;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-002082;2020-04-07;3;7;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002083;2020-04-07;3;12;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-002084;2020-04-07;9;18;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002085;2020-04-07;2;5;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-002086;2020-04-07;13;105;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002087;2020-04-07;7;88;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002088;2020-04-06;19;127;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002089;2020-04-06;3;5;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002090;2020-04-06;2;3;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-002091;2020-04-06;2;35;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002092;2020-04-06;13;26;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-002093;2020-04-06;1;1;Cabo Verde;recovered_cases_africa_ncov_2020-06-16
+Recovered-002094;2020-04-06;12;259;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002095;2020-04-06;4;41;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002096;2020-04-06;3;4;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-002097;2020-04-06;8;9;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-002098;2020-04-06;5;81;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002099;2020-04-06;2;3;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002100;2020-04-06;1;4;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-002101;2020-04-06;10;92;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002102;2020-04-06;1;1;Mauricio;recovered_cases_africa_ncov_2020-06-16
+Recovered-002103;2020-04-05;20;25;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-002104;2020-04-05;18;108;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002105;2020-04-05;2;22;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002106;2020-04-05;6;33;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002107;2020-04-05;2;5;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002108;2020-04-05;1;3;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002109;2020-04-05;5;76;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002110;2020-04-05;13;13;Níger;recovered_cases_africa_ncov_2020-06-16
+Recovered-002111;2020-04-05;2;2;Madagascar;recovered_cases_africa_ncov_2020-06-16
+Recovered-002112;2020-04-05;3;5;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-002113;2020-04-05;12;37;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002114;2020-04-05;3;20;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002115;2020-04-05;6;247;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002116;2020-04-05;5;71;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002117;2020-04-05;1;9;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002118;2020-04-05;4;4;Ruanda;recovered_cases_africa_ncov_2020-06-16
+Recovered-002119;2020-04-05;2;27;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002120;2020-04-05;10;82;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002121;2020-04-05;1;3;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002122;2020-04-05;1;66;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002123;2020-04-04;24;90;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002124;2020-04-04;1;4;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-002125;2020-04-04;1;1;Mozambique;recovered_cases_africa_ncov_2020-06-16
+Recovered-002126;2020-04-04;6;25;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002127;2020-04-04;28;90;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002128;2020-04-04;25;241;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002129;2020-04-04;3;65;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002130;2020-04-04;1;1;Mali;recovered_cases_africa_ncov_2020-06-16
+Recovered-002131;2020-04-04;3;62;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002132;2020-04-04;3;3;Liberia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002133;2020-04-04;6;72;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002134;2020-04-04;3;59;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002135;2020-04-03;2;2;Chad;recovered_cases_africa_ncov_2020-06-16
+Recovered-002136;2020-04-03;18;66;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002137;2020-04-03;4;5;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-002138;2020-04-03;5;25;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002139;2020-04-03;1;4;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002140;2020-04-03;4;19;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002141;2020-04-03;1;62;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002142;2020-04-03;7;17;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-002143;2020-04-03;15;216;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002144;2020-04-03;1;2;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-002145;2020-04-03;7;56;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002146;2020-04-03;2;2;Zambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002147;2020-04-03;6;8;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002148;2020-04-03;11;20;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002149;2020-04-03;1;3;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-002150;2020-04-03;18;49;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002151;2020-04-03;11;66;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002152;2020-04-02;2;48;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002153;2020-04-02;1;31;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002154;2020-04-02;6;15;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002155;2020-04-02;7;17;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002156;2020-04-02;44;201;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002157;2020-04-02;1;1;Gabón;recovered_cases_africa_ncov_2020-06-16
+Recovered-002158;2020-04-02;14;45;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-002159;2020-04-02;1;30;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002160;2020-04-02;2;2;Yibuti;recovered_cases_africa_ncov_2020-06-16
+Recovered-002161;2020-04-02;1;3;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-002162;2020-04-02;10;55;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002163;2020-04-01;2;2;Sudán;recovered_cases_africa_ncov_2020-06-16
+Recovered-002164;2020-04-01;5;29;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002165;2020-04-01;2;2;Gambia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002166;2020-04-01;3;5;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-002167;2020-04-01;2;9;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002168;2020-04-01;15;61;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002169;2020-04-01;1;2;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-002170;2020-04-01;2;3;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002171;2020-04-01;5;45;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002172;2020-03-31;14;46;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002173;2020-03-31;1;1;Somalia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002174;2020-03-31;7;157;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002175;2020-03-31;1;1;Guinea Ecuatorial;recovered_cases_africa_ncov_2020-06-16
+Recovered-002176;2020-03-31;1;1;Benín;recovered_cases_africa_ncov_2020-06-16
+Recovered-002177;2020-03-31;1;7;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002178;2020-03-31;15;46;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002179;2020-03-31;6;9;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002180;2020-03-31;1;3;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-002181;2020-03-31;9;24;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002182;2020-03-31;12;40;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002183;2020-03-30;1;32;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002184;2020-03-30;2;6;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002185;2020-03-30;1;15;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002186;2020-03-30;1;14;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002187;2020-03-30;18;150;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002188;2020-03-30;3;10;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002189;2020-03-30;1;28;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002190;2020-03-30;6;10;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-002191;2020-03-29;8;31;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002192;2020-03-29;6;7;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002193;2020-03-29;2;4;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-002194;2020-03-29;2;2;Mauritania;recovered_cases_africa_ncov_2020-06-16
+Recovered-002195;2020-03-29;1;4;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002196;2020-03-29;27;31;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-002197;2020-03-29;11;132;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002198;2020-03-29;1;2;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-002199;2020-03-29;2;2;República del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002200;2020-03-29;1;13;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002201;2020-03-29;9;27;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002202;2020-03-28;7;31;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002203;2020-03-28;2;23;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002204;2020-03-28;2;2;Ghana;recovered_cases_africa_ncov_2020-06-16
+Recovered-002205;2020-03-28;1;1;Etiopía;recovered_cases_africa_ncov_2020-06-16
+Recovered-002206;2020-03-28;1;12;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002207;2020-03-28;2;3;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002208;2020-03-28;5;121;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002209;2020-03-28;7;18;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002210;2020-03-27;1;1;Suazilandia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002211;2020-03-27;9;21;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002212;2020-03-27;3;11;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002213;2020-03-27;14;116;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002214;2020-03-27;2;11;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002215;2020-03-26;2;12;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002216;2020-03-26;3;3;República Centroafricana;recovered_cases_africa_ncov_2020-06-16
+Recovered-002217;2020-03-26;1;3;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002218;2020-03-26;7;102;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002219;2020-03-26;1;8;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002220;2020-03-26;1;1;Tanzania;recovered_cases_africa_ncov_2020-06-16
+Recovered-002221;2020-03-25;15;95;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002222;2020-03-25;2;7;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002223;2020-03-25;2;24;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002224;2020-03-25;1;1;Kenia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002225;2020-03-25;1;9;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002226;2020-03-24;3;10;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002227;2020-03-24;12;80;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002228;2020-03-24;1;2;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-002229;2020-03-23;2;2;Namibia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002230;2020-03-23;2;7;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002231;2020-03-23;27;68;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002232;2020-03-23;1;1;Guinea;recovered_cases_africa_ncov_2020-06-16
+Recovered-002233;2020-03-23;1;1;República Democrática del Congo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002234;2020-03-23;2;5;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002235;2020-03-23;3;8;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002236;2020-03-23;1;3;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002237;2020-03-22;1;2;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002238;2020-03-21;1;4;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-002239;2020-03-21;2;3;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-002240;2020-03-21;1;1;Sudáfrica;recovered_cases_africa_ncov_2020-06-16
+Recovered-002241;2020-03-21;2;41;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002242;2020-03-21;1;3;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002243;2020-03-21;14;22;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002244;2020-03-20;1;5;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002245;2020-03-20;11;39;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002246;2020-03-20;1;2;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002247;2020-03-20;1;2;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002248;2020-03-19;4;4;Burkina Faso;recovered_cases_africa_ncov_2020-06-16
+Recovered-002249;2020-03-19;1;1;Togo;recovered_cases_africa_ncov_2020-06-16
+Recovered-002250;2020-03-19;3;5;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002251;2020-03-19;2;2;Camerún;recovered_cases_africa_ncov_2020-06-16
+Recovered-002252;2020-03-18;2;28;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002253;2020-03-16;1;1;Costa de Marfil;recovered_cases_africa_ncov_2020-06-16
+Recovered-002254;2020-03-15;5;26;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002255;2020-03-13;1;1;Túnez;recovered_cases_africa_ncov_2020-06-16
+Recovered-002256;2020-03-13;1;1;Nigeria;recovered_cases_africa_ncov_2020-06-16
+Recovered-002257;2020-03-12;8;8;Argelia;recovered_cases_africa_ncov_2020-06-16
+Recovered-002258;2020-03-11;1;1;Marruecos;recovered_cases_africa_ncov_2020-06-16
+Recovered-002259;2020-03-11;8;21;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002260;2020-03-10;1;2;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002261;2020-03-09;12;13;Egipto;recovered_cases_africa_ncov_2020-06-16
+Recovered-002262;2020-03-06;1;1;Senegal;recovered_cases_africa_ncov_2020-06-16
+Recovered-002263;2020-02-28;1;1;Egipto;recovered_cases_africa_ncov_2020-06-16

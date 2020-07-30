@@ -1,0 +1,631 @@
+Prefix(:=<http://utpl.edu.ec/lod/dataCOVID/>)
+Prefix(gn:=<http://www.geonames.org/ontology#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(sio:=<http://semanticscience.org/resource/>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(onto:=<http://utpl.edu.ec/lod/dataCOVID/>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://utpl.edu.ec/lod/dataCOVID/>
+
+Declaration(Class(<http://dbpedia.org/ontology/Continent>))
+Declaration(Class(<http://dbpedia.org/ontology/Country>))
+Declaration(Class(<http://dbpedia.org/ontology/Place>))
+Declaration(Class(<http://dbpedia.org/ontology/Province>))
+Declaration(Class(<http://schema.org/Observation>))
+Declaration(Class(sio:SIO_000715))
+Declaration(Class(onto:ActiveCase))
+Declaration(Class(onto:CaseCovid))
+Declaration(Class(onto:ConfirmedCase))
+Declaration(Class(onto:DeathCase))
+Declaration(Class(onto:GovernmentAction))
+Declaration(Class(onto:HospitalizedCase))
+Declaration(Class(onto:MedicalInformation))
+Declaration(Class(onto:Patient))
+Declaration(Class(onto:RecoveredCase))
+Declaration(Class(onto:Statistic))
+Declaration(Class(onto:Test))
+Declaration(Class(<http://www.w3.org/ns/dcat#Catalog>))
+Declaration(Class(<http://www.w3.org/ns/dcat#Dataset>))
+Declaration(Class(<http://xmlns.com/foaf/0.1/Organization>))
+Declaration(Class(<http://xmlns.com/foaf/0.1/Person>))
+Declaration(Class(<https://schema.org/Dataset>))
+Declaration(Class(<https://schema.org/Place>))
+Declaration(ObjectProperty(<http://dbpedia.org/ontology/country>))
+Declaration(ObjectProperty(<http://dbpedia.org/ontology/province>))
+Declaration(ObjectProperty(<http://schema.org/containsPlace>))
+Declaration(ObjectProperty(onto:dataset))
+Declaration(ObjectProperty(onto:hasData))
+Declaration(ObjectProperty(onto:hasMeasurement))
+Declaration(ObjectProperty(onto:madeIn))
+Declaration(ObjectProperty(onto:providedBy))
+Declaration(ObjectProperty(onto:publisher))
+Declaration(ObjectProperty(rdf:type))
+Declaration(ObjectProperty(<https://www.geonames.org/ontology/#locatedIn>))
+Declaration(ObjectProperty(<https://www.w3.org/TR/prov-o/#wasDerivedFrom>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/currentStatus>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/date>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/deathDate>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/description>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/name>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/place>))
+Declaration(DataProperty(<http://dbpedia.org/ontology/populationTotal>))
+Declaration(DataProperty(<http://purl.org/dc/elements/1.1/dateSubmited>))
+Declaration(DataProperty(<http://schema.org/latitude>))
+Declaration(DataProperty(<http://schema.org/longitude>))
+Declaration(DataProperty(onto:confirmationDate))
+Declaration(DataProperty(onto:dateFirstSymptom))
+Declaration(DataProperty(onto:historyDate))
+Declaration(DataProperty(onto:negative))
+Declaration(DataProperty(onto:notConfirmed))
+Declaration(DataProperty(onto:positive))
+Declaration(DataProperty(onto:quantity))
+Declaration(DataProperty(onto:quantityMild))
+Declaration(DataProperty(onto:quantitySevere))
+Declaration(DataProperty(onto:quantityUnknown))
+Declaration(DataProperty(onto:realized))
+Declaration(DataProperty(onto:totalQuantity))
+Declaration(DataProperty(onto:travelHistoryLocation))
+Declaration(DataProperty(gn:countryCode))
+Declaration(DataProperty(<http://www.w3.org/ns/dcat#downloadURL>))
+Declaration(DataProperty(<http://www.w3.org/ns/dcat#modified>))
+Declaration(DataProperty(<http://xmlns.com/foaf/0.1/age>))
+Declaration(DataProperty(<http://xmlns.com/foaf/0.1/gender>))
+Declaration(DataProperty(<https://schema.org/observationDate>))
+Declaration(NamedIndividual(<http://dbpedia.org/ontology/Country->))
+Declaration(AnnotationProperty(<http://dbpedia.org/ontology/name>))
+Declaration(AnnotationProperty(<http://webprotege.stanford.edu/R9x9MV77FibwGpfmZk9go4l>))
+Declaration(Datatype(xsd:date))
+Declaration(Datatype(<http://www.w3.org/2001/XMLSchema#date >))
+############################
+#   Annotation Properties
+############################
+
+# Annotation Property: <http://dbpedia.org/ontology/name> (dbo:name)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/name> "Palabra o conjunto de palabras con las que se designan y se distinguen los seres vivos y los objetos físicos o abstractos."@es)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/name> "Word or set of words with which living beings and physical or abstract objects are designated and distinguished."@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/name> "dbo:name"@en)
+
+# Annotation Property: <http://webprotege.stanford.edu/R9x9MV77FibwGpfmZk9go4l> (gn:countryCode)
+
+AnnotationAssertion(rdfs:label <http://webprotege.stanford.edu/R9x9MV77FibwGpfmZk9go4l> "gn:countryCode"@en)
+
+
+############################
+#   Object Properties
+############################
+
+# Object Property: <http://dbpedia.org/ontology/country> (dbo:country)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/country> "Describe the relation between Continent and Country"@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/country> "dbo:country"@en)
+SubObjectPropertyOf(<http://dbpedia.org/ontology/country> owl:topObjectProperty)
+ObjectPropertyDomain(<http://dbpedia.org/ontology/country> <http://dbpedia.org/ontology/Continent>)
+ObjectPropertyRange(<http://dbpedia.org/ontology/country> <http://dbpedia.org/ontology/Country>)
+
+# Object Property: <http://dbpedia.org/ontology/province> (dbo:province)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/province> "Describe the relation between country and province"@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/province> "dbo:province"@en)
+SubObjectPropertyOf(<http://dbpedia.org/ontology/province> owl:topObjectProperty)
+ObjectPropertyDomain(<http://dbpedia.org/ontology/province> <http://dbpedia.org/ontology/Country>)
+ObjectPropertyRange(<http://dbpedia.org/ontology/province> <http://dbpedia.org/ontology/Province>)
+
+# Object Property: <http://schema.org/containsPlace> (schema:containsPlace)
+
+AnnotationAssertion(rdfs:comment <http://schema.org/containsPlace> "Schema relation for objects of type Place (PlaceO containsts PlaceO)"^^xsd:string)
+AnnotationAssertion(rdfs:label <http://schema.org/containsPlace> "schema:containsPlace"@en)
+SubObjectPropertyOf(<http://schema.org/containsPlace> owl:topObjectProperty)
+ObjectPropertyDomain(<http://schema.org/containsPlace> <http://dbpedia.org/ontology/Country>)
+ObjectPropertyRange(<http://schema.org/containsPlace> <http://dbpedia.org/ontology/Province>)
+
+# Object Property: onto:dataset (dcat:dataset)
+
+AnnotationAssertion(rdfs:comment onto:dataset "A collection of data that is listed in the catalog."@en)
+AnnotationAssertion(rdfs:label onto:dataset "dcat:dataset"@en)
+
+# Object Property: onto:hasData (newOnto:hasData)
+
+AnnotationAssertion(rdfs:comment onto:hasData "Medical Data of a patient and Patient Data of a CaseCovid"^^xsd:string)
+AnnotationAssertion(rdfs:label onto:hasData "newOnto:hasData"@en)
+SubObjectPropertyOf(onto:hasData owl:topObjectProperty)
+ObjectPropertyDomain(onto:hasData sio:SIO_000715)
+ObjectPropertyDomain(onto:hasData onto:CaseCovid)
+ObjectPropertyRange(onto:hasData sio:SIO_000715)
+ObjectPropertyRange(onto:hasData onto:MedicalInformation)
+
+# Object Property: onto:hasMeasurement (newOnto:hasMeasurement)
+
+AnnotationAssertion(rdfs:comment onto:hasMeasurement "Indica las medidas de seguridad que tomo un país frente a un problema"@es)
+AnnotationAssertion(rdfs:label onto:hasMeasurement "newOnto:hasMeasurement"@en)
+SubObjectPropertyOf(onto:hasMeasurement owl:topObjectProperty)
+ObjectPropertyDomain(onto:hasMeasurement <http://www.w3.org/ns/dcat#Dataset>)
+ObjectPropertyRange(onto:hasMeasurement onto:GovernmentAction)
+
+# Object Property: onto:madeIn (ov:madeIn)
+
+AnnotationAssertion(rdfs:comment onto:madeIn "Describe the place where the Test was made"@en)
+AnnotationAssertion(rdfs:label onto:madeIn "ov:madeIn"@en)
+SubObjectPropertyOf(onto:madeIn owl:topObjectProperty)
+ObjectPropertyDomain(onto:madeIn onto:Test)
+ObjectPropertyRange(onto:madeIn <http://dbpedia.org/ontology/Place>)
+
+# Object Property: onto:providedBy (pav:providedBy)
+
+AnnotationAssertion(rdfs:comment onto:providedBy "Describe the provenance of data"@en)
+AnnotationAssertion(rdfs:label onto:providedBy "pav:providedBy"@en)
+SubObjectPropertyOf(onto:providedBy owl:topObjectProperty)
+ObjectPropertyDomain(onto:providedBy onto:CaseCovid)
+ObjectPropertyDomain(onto:providedBy onto:GovernmentAction)
+ObjectPropertyDomain(onto:providedBy onto:Statistic)
+ObjectPropertyDomain(onto:providedBy onto:Test)
+ObjectPropertyRange(onto:providedBy <http://www.w3.org/ns/dcat#Dataset>)
+
+# Object Property: onto:publisher (dcat:publisher)
+
+AnnotationAssertion(rdfs:comment onto:publisher "The entity responsible for making the item available."@en)
+AnnotationAssertion(rdfs:label onto:publisher "dcat:publisher"@en)
+ObjectPropertyDomain(onto:publisher <http://www.w3.org/ns/dcat#Catalog>)
+ObjectPropertyRange(onto:publisher <http://xmlns.com/foaf/0.1/Organization>)
+
+# Object Property: rdf:type (rdf:type)
+
+AnnotationAssertion(rdfs:comment rdf:type "Describe an object by a type"@en)
+AnnotationAssertion(rdfs:label rdf:type "rdf:type"^^xsd:string)
+SubObjectPropertyOf(rdf:type owl:topObjectProperty)
+ObjectPropertyDomain(rdf:type <http://dbpedia.org/ontology/Continent>)
+ObjectPropertyDomain(rdf:type <http://dbpedia.org/ontology/Country>)
+ObjectPropertyDomain(rdf:type <http://dbpedia.org/ontology/Province>)
+ObjectPropertyDomain(rdf:type sio:SIO_000715)
+ObjectPropertyRange(rdf:type <http://dbpedia.org/ontology/Place>)
+ObjectPropertyRange(rdf:type <http://xmlns.com/foaf/0.1/Person>)
+
+# Object Property: <https://www.geonames.org/ontology/#locatedIn> (gn:locatedIn)
+
+AnnotationAssertion(rdfs:comment <https://www.geonames.org/ontology/#locatedIn> "Indica que el recurso sujeto está ubicado en la entidad del objeto"@es)
+AnnotationAssertion(rdfs:label <https://www.geonames.org/ontology/#locatedIn> "gn:locatedIn"@en)
+SubObjectPropertyOf(<https://www.geonames.org/ontology/#locatedIn> owl:topObjectProperty)
+ObjectPropertyDomain(<https://www.geonames.org/ontology/#locatedIn> onto:CaseCovid)
+ObjectPropertyDomain(<https://www.geonames.org/ontology/#locatedIn> onto:GovernmentAction)
+ObjectPropertyDomain(<https://www.geonames.org/ontology/#locatedIn> onto:Statistic)
+ObjectPropertyRange(<https://www.geonames.org/ontology/#locatedIn> <http://dbpedia.org/ontology/Place>)
+
+# Object Property: <https://www.w3.org/TR/prov-o/#wasDerivedFrom> (prov:wasDerivedFrom)
+
+AnnotationAssertion(rdfs:comment <https://www.w3.org/TR/prov-o/#wasDerivedFrom> "Una derivación es una transformación de una entidad en otra, una actualización de una entidad que resulta en una nueva o la construcción de una nueva entidad basada en una entidad preexistente."@es)
+AnnotationAssertion(rdfs:label <https://www.w3.org/TR/prov-o/#wasDerivedFrom> "prov:wasDerivedFrom"@en)
+ObjectPropertyDomain(<https://www.w3.org/TR/prov-o/#wasDerivedFrom> onto:CaseCovid)
+ObjectPropertyDomain(<https://www.w3.org/TR/prov-o/#wasDerivedFrom> onto:Statistic)
+ObjectPropertyDomain(<https://www.w3.org/TR/prov-o/#wasDerivedFrom> onto:Test)
+ObjectPropertyRange(<https://www.w3.org/TR/prov-o/#wasDerivedFrom> <http://www.w3.org/ns/dcat#Dataset>)
+
+
+############################
+#   Data Properties
+############################
+
+# Data Property: <http://dbpedia.org/ontology/currentStatus> (dbo:currentStatus)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/currentStatus> "Current status of the medical situation of the patient with COVID-19"@en)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/currentStatus> "Estado actual de la situación médica del paciente con COVID-19"@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/currentStatus> "dbo:currentStatus"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/currentStatus> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/currentStatus> onto:MedicalInformation)
+DataPropertyRange(<http://dbpedia.org/ontology/currentStatus> xsd:string)
+
+# Data Property: <http://dbpedia.org/ontology/date> (dbo:date)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/date> "Indicación del tiempo en que se hace u ocurre una cosa."@es)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/date> "Indication of the time when a thing is done or happens."@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/date> "dbo:date"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/date> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/date> onto:GovernmentAction)
+DataPropertyRange(<http://dbpedia.org/ontology/date> xsd:date)
+
+# Data Property: <http://dbpedia.org/ontology/deathDate> (dbo:deathDate)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/deathDate> "Date of death of the COVID-19 patient"@en)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/deathDate> "Fecha de fallecimiento del paciente de COVID-19"@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/deathDate> "dbo:deathDate"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/deathDate> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/deathDate> onto:MedicalInformation)
+DataPropertyRange(<http://dbpedia.org/ontology/deathDate> xsd:date)
+
+# Data Property: <http://dbpedia.org/ontology/description> (dbo:description)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/description> "Breve descripción de una persona o cosa."@es)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/description> "Brief description of a person or thing."@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/description> "dbo:description"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/description> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/description> onto:GovernmentAction)
+DataPropertyDomain(<http://dbpedia.org/ontology/description> <http://www.w3.org/ns/dcat#Dataset>)
+DataPropertyRange(<http://dbpedia.org/ontology/description> xsd:string)
+
+# Data Property: <http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> (dbo:grossDomesticProductNominalPerCapita)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> "Macroeconomic magnitude that expresses the monetary value of the production of goods and services of final demand of a country or region."@en)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> "Magnitud macroeconómica que expresa el valor monetario de la producción de bienes y servicios de demanda final de un país o región."@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> "dbo:grossDomesticProductNominalPerCapita"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> <http://dbpedia.org/ontology/Country>)
+DataPropertyDomain(<http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> <http://dbpedia.org/ontology/Place>)
+DataPropertyRange(<http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita> xsd:decimal)
+
+# Data Property: <http://dbpedia.org/ontology/name> (dbo:name)
+
+SubDataPropertyOf(<http://dbpedia.org/ontology/name> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://dbpedia.org/ontology/Continent>)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://dbpedia.org/ontology/Country>)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://dbpedia.org/ontology/Place>)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://dbpedia.org/ontology/Province>)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> onto:GovernmentAction)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://www.w3.org/ns/dcat#Catalog>)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://www.w3.org/ns/dcat#Dataset>)
+DataPropertyDomain(<http://dbpedia.org/ontology/name> <http://xmlns.com/foaf/0.1/Organization>)
+DataPropertyRange(<http://dbpedia.org/ontology/name> xsd:string)
+
+# Data Property: <http://dbpedia.org/ontology/place> (dbo:place)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/place> "Situación o posición, real o figurada, que corresponde a una persona por su función, importancia o estado."@es)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/place> "Situation or position, real or figurative, that corresponds to a person by their function, importance or status."@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/place> "dbo:place"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/place> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/place> onto:Patient)
+DataPropertyRange(<http://dbpedia.org/ontology/place> xsd:string)
+
+# Data Property: <http://dbpedia.org/ontology/populationTotal> (dbo:populationTotal)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/populationTotal> "Conjunto de habitantes de un lugar."@es)
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/populationTotal> "Set of inhabitants of a place."@en)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/populationTotal> "dbo:populationTotal"@en)
+SubDataPropertyOf(<http://dbpedia.org/ontology/populationTotal> owl:topDataProperty)
+DataPropertyDomain(<http://dbpedia.org/ontology/populationTotal> <http://dbpedia.org/ontology/Country>)
+DataPropertyDomain(<http://dbpedia.org/ontology/populationTotal> <http://dbpedia.org/ontology/Place>)
+DataPropertyRange(<http://dbpedia.org/ontology/populationTotal> xsd:integer)
+
+# Data Property: <http://purl.org/dc/elements/1.1/dateSubmited> (dc:dateSubmited)
+
+AnnotationAssertion(rdfs:comment <http://purl.org/dc/elements/1.1/dateSubmited> "Indicación del tiempo en que se hace el envío de información."@es)
+AnnotationAssertion(rdfs:comment <http://purl.org/dc/elements/1.1/dateSubmited> "Indication of the time when information is sent."@en)
+AnnotationAssertion(rdfs:label <http://purl.org/dc/elements/1.1/dateSubmited> "dc:dateSubmited"@en)
+SubDataPropertyOf(<http://purl.org/dc/elements/1.1/dateSubmited> owl:topDataProperty)
+DataPropertyDomain(<http://purl.org/dc/elements/1.1/dateSubmited> <http://www.w3.org/ns/dcat#Dataset>)
+DataPropertyRange(<http://purl.org/dc/elements/1.1/dateSubmited> xsd:date)
+
+# Data Property: <http://schema.org/latitude> (schema:latitude)
+
+AnnotationAssertion(rdfs:comment <http://schema.org/latitude> "Angular distance between the equator, and a certain point on Earth."@en)
+AnnotationAssertion(rdfs:comment <http://schema.org/latitude> "Distancia angular entre la línea ecuatorial, y un punto determinado de la Tierra."@es)
+AnnotationAssertion(rdfs:label <http://schema.org/latitude> "schema:latitude"@en)
+SubDataPropertyOf(<http://schema.org/latitude> owl:topDataProperty)
+DataPropertyDomain(<http://schema.org/latitude> <http://dbpedia.org/ontology/Country>)
+DataPropertyDomain(<http://schema.org/latitude> <http://dbpedia.org/ontology/Place>)
+DataPropertyRange(<http://schema.org/latitude> xsd:decimal)
+
+# Data Property: <http://schema.org/longitude> (schema:longitude)
+
+AnnotationAssertion(rdfs:comment <http://schema.org/longitude> "Angular distance between a given point on the Earth's surface and the meridian taken as 0 °"@en)
+AnnotationAssertion(rdfs:comment <http://schema.org/longitude> "Distancia angular entre un punto dado de la superficie terrestre y el meridiano que se toma como 0°."@es)
+AnnotationAssertion(rdfs:label <http://schema.org/longitude> "schema:longitude"@en)
+SubDataPropertyOf(<http://schema.org/longitude> owl:topDataProperty)
+DataPropertyDomain(<http://schema.org/longitude> <http://dbpedia.org/ontology/Country>)
+DataPropertyDomain(<http://schema.org/longitude> <http://dbpedia.org/ontology/Place>)
+DataPropertyRange(<http://schema.org/longitude> xsd:decimal)
+
+# Data Property: onto:confirmationDate (newOnto:confirmationDate)
+
+AnnotationAssertion(rdfs:comment onto:confirmationDate "Date of the number of confirmed cases each day"@en)
+AnnotationAssertion(rdfs:comment onto:confirmationDate "Fecha del número de casos confirmados cada dia"@es)
+AnnotationAssertion(rdfs:label onto:confirmationDate "newOnto:confirmationDate"@en)
+SubDataPropertyOf(onto:confirmationDate owl:topDataProperty)
+DataPropertyDomain(onto:confirmationDate onto:CaseCovid)
+DataPropertyRange(onto:confirmationDate xsd:date)
+
+# Data Property: onto:dateFirstSymptom (newOnto:date_first_symptom)
+
+AnnotationAssertion(rdfs:comment onto:dateFirstSymptom "Fecha de observación de los primeros sintomas"^^xsd:string)
+AnnotationAssertion(rdfs:label onto:dateFirstSymptom "newOnto:date_first_symptom"@en)
+SubDataPropertyOf(onto:dateFirstSymptom owl:topDataProperty)
+DataPropertyDomain(onto:dateFirstSymptom onto:MedicalInformation)
+DataPropertyRange(onto:dateFirstSymptom xsd:date)
+
+# Data Property: onto:historyDate (newOnto:travel_history_date)
+
+AnnotationAssertion(rdfs:comment onto:historyDate "Fecha del historial de viajes de las personas detectadas de COVID-19"@es)
+AnnotationAssertion(rdfs:label onto:historyDate "newOnto:travel_history_date"@en)
+SubDataPropertyOf(onto:historyDate owl:topDataProperty)
+DataPropertyDomain(onto:historyDate onto:MedicalInformation)
+DataPropertyRange(onto:historyDate xsd:date)
+
+# Data Property: onto:negative (newOnto:negatives)
+
+AnnotationAssertion(rdfs:comment onto:negative "Cantidad de casos negativos"@es)
+AnnotationAssertion(rdfs:label onto:negative "newOnto:negatives"@en)
+SubDataPropertyOf(onto:negative owl:topDataProperty)
+DataPropertyDomain(onto:negative onto:Test)
+DataPropertyRange(onto:negative xsd:integer)
+
+# Data Property: onto:notConfirmed (newOnto:not_confirmed)
+
+AnnotationAssertion(rdfs:comment onto:notConfirmed "Cantidad de casos no confirmados"@es)
+AnnotationAssertion(rdfs:label onto:notConfirmed "newOnto:not_confirmed"@en)
+SubDataPropertyOf(onto:notConfirmed owl:topDataProperty)
+DataPropertyDomain(onto:notConfirmed onto:Test)
+DataPropertyRange(onto:notConfirmed xsd:integer)
+
+# Data Property: onto:positive (newOnto:positives)
+
+AnnotationAssertion(rdfs:comment onto:positive "Cantidad de casos positivos"@es)
+AnnotationAssertion(rdfs:label onto:positive "newOnto:positives"@en)
+SubDataPropertyOf(onto:positive owl:topDataProperty)
+DataPropertyDomain(onto:positive onto:Test)
+DataPropertyRange(onto:positive xsd:integer)
+
+# Data Property: onto:quantity (newOnto:quantity)
+
+AnnotationAssertion(rdfs:label onto:quantity "newOnto:quantity"@en)
+SubDataPropertyOf(onto:quantity owl:topDataProperty)
+DataPropertyDomain(onto:quantity onto:Statistic)
+DataPropertyRange(onto:quantity xsd:integer)
+
+# Data Property: onto:quantityMild (newOnto:quantityMild)
+
+AnnotationAssertion(rdfs:comment onto:quantityMild "Cantidad de personas con enfermedad en estado leve"@es)
+AnnotationAssertion(rdfs:comment onto:quantityMild "Number of people with mild disease"@en)
+AnnotationAssertion(rdfs:label onto:quantityMild "newOnto:quantityMild"@en)
+SubDataPropertyOf(onto:quantityMild owl:topDataProperty)
+DataPropertyDomain(onto:quantityMild onto:HospitalizedCase)
+DataPropertyRange(onto:quantityMild xsd:integer)
+
+# Data Property: onto:quantitySevere (newOnto:quantitySevere)
+
+AnnotationAssertion(rdfs:comment onto:quantitySevere "Cantidad de personas con enfermedad en estado grave"@es)
+AnnotationAssertion(rdfs:label onto:quantitySevere "newOnto:quantitySevere"@en)
+SubDataPropertyOf(onto:quantitySevere owl:topDataProperty)
+DataPropertyDomain(onto:quantitySevere onto:HospitalizedCase)
+DataPropertyRange(onto:quantitySevere xsd:integer)
+
+# Data Property: onto:quantityUnknown (newOnto:quantityUnknown)
+
+AnnotationAssertion(rdfs:comment onto:quantityUnknown "Cantidad de personas con enfermedad en estado desconocido"@es)
+AnnotationAssertion(rdfs:label onto:quantityUnknown "newOnto:quantityUnknown"@en)
+SubDataPropertyOf(onto:quantityUnknown owl:topDataProperty)
+DataPropertyDomain(onto:quantityUnknown onto:HospitalizedCase)
+DataPropertyRange(onto:quantityUnknown xsd:integer)
+
+# Data Property: onto:realized (newOnto:realized)
+
+AnnotationAssertion(rdfs:comment onto:realized "Cantidad de pruebas realizadas"@es)
+AnnotationAssertion(rdfs:label onto:realized "newOnto:realized"@en)
+SubDataPropertyOf(onto:realized owl:topDataProperty)
+DataPropertyDomain(onto:realized onto:Test)
+DataPropertyRange(onto:realized xsd:integer)
+
+# Data Property: onto:totalQuantity (newOnto:total_quantity)
+
+AnnotationAssertion(rdfs:label onto:totalQuantity "newOnto:total_quantity"@en)
+SubDataPropertyOf(onto:totalQuantity owl:topDataProperty)
+DataPropertyDomain(onto:totalQuantity onto:Statistic)
+DataPropertyRange(onto:totalQuantity xsd:integer)
+
+# Data Property: onto:travelHistoryLocation (newOnto:travel_history_location)
+
+AnnotationAssertion(rdfs:comment onto:travelHistoryLocation "Ubicaciones anteriores visitadas por las personas detectadas de COVID-19"@es)
+AnnotationAssertion(rdfs:label onto:travelHistoryLocation "newOnto:travel_history_location"@en)
+SubDataPropertyOf(onto:travelHistoryLocation owl:topDataProperty)
+DataPropertyDomain(onto:travelHistoryLocation onto:MedicalInformation)
+DataPropertyRange(onto:travelHistoryLocation xsd:string)
+
+# Data Property: gn:countryCode (gn:countryCode)
+
+AnnotationAssertion(rdfs:comment gn:countryCode "Alphabetical or numeric shortcodes created to represent countries and their dependent areas."@en)
+AnnotationAssertion(rdfs:comment gn:countryCode "Códigos cortos alfabéticos o numéricos creados para representar a los países y sus áreas dependientes."@es)
+AnnotationAssertion(rdfs:label gn:countryCode "gn:countryCode"@en)
+SubDataPropertyOf(gn:countryCode owl:topDataProperty)
+DataPropertyDomain(gn:countryCode <http://dbpedia.org/ontology/Country>)
+DataPropertyDomain(gn:countryCode <http://dbpedia.org/ontology/Place>)
+DataPropertyRange(gn:countryCode xsd:string)
+
+# Data Property: <http://www.w3.org/ns/dcat#downloadURL> (dcat:downloadURL)
+
+AnnotationAssertion(rdfs:comment <http://www.w3.org/ns/dcat#downloadURL> "Dirección web de donde se descarga un recurso."@es)
+AnnotationAssertion(rdfs:comment <http://www.w3.org/ns/dcat#downloadURL> "Web address from where a resource is downloaded."@en)
+AnnotationAssertion(rdfs:label <http://www.w3.org/ns/dcat#downloadURL> "dcat:downloadURL"@en)
+SubDataPropertyOf(<http://www.w3.org/ns/dcat#downloadURL> owl:topDataProperty)
+DataPropertyDomain(<http://www.w3.org/ns/dcat#downloadURL> <http://www.w3.org/ns/dcat#Dataset>)
+DataPropertyRange(<http://www.w3.org/ns/dcat#downloadURL> xsd:string)
+
+# Data Property: <http://www.w3.org/ns/dcat#modified> (dcat:modified)
+
+AnnotationAssertion(rdfs:comment <http://www.w3.org/ns/dcat#modified> "Indicación del tiempo en que se hace la modificación de información."@es)
+AnnotationAssertion(rdfs:comment <http://www.w3.org/ns/dcat#modified> "Indication of the time when the information is modified."@en)
+AnnotationAssertion(rdfs:label <http://www.w3.org/ns/dcat#modified> "dcat:modified"@en)
+SubDataPropertyOf(<http://www.w3.org/ns/dcat#modified> owl:topDataProperty)
+DataPropertyDomain(<http://www.w3.org/ns/dcat#modified> <http://www.w3.org/ns/dcat#Dataset>)
+DataPropertyRange(<http://www.w3.org/ns/dcat#modified> xsd:date)
+
+# Data Property: <http://xmlns.com/foaf/0.1/age> (foaf:age)
+
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/age> "Age in years of a person"@en)
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/age> "Edad en años de una persona"@es)
+AnnotationAssertion(rdfs:label <http://xmlns.com/foaf/0.1/age> "foaf:age"@en)
+SubDataPropertyOf(<http://xmlns.com/foaf/0.1/age> owl:topDataProperty)
+DataPropertyDomain(<http://xmlns.com/foaf/0.1/age> onto:Patient)
+DataPropertyRange(<http://xmlns.com/foaf/0.1/age> xsd:integer)
+
+# Data Property: <http://xmlns.com/foaf/0.1/gender> (foaf:gender)
+
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/gender> "Identidad sexual de una persona"@es)
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/gender> "Sexual identity of a person"@en)
+AnnotationAssertion(rdfs:label <http://xmlns.com/foaf/0.1/gender> "foaf:gender"@en)
+SubDataPropertyOf(<http://xmlns.com/foaf/0.1/gender> owl:topDataProperty)
+DataPropertyDomain(<http://xmlns.com/foaf/0.1/gender> onto:Patient)
+DataPropertyRange(<http://xmlns.com/foaf/0.1/gender> xsd:string)
+
+# Data Property: <https://schema.org/observationDate> (<https://schema.org/observationDate>)
+
+SubDataPropertyOf(<https://schema.org/observationDate> owl:topDataProperty)
+DataPropertyDomain(<https://schema.org/observationDate> <http://schema.org/Observation>)
+DataPropertyRange(<https://schema.org/observationDate> xsd:date)
+
+
+############################
+#   Datatypes
+############################
+
+# Datatype: xsd:date (xsd:date)
+
+AnnotationAssertion(rdfs:label xsd:date "xsd:date"@en)
+
+# Datatype: <http://www.w3.org/2001/XMLSchema#date > (xsd:date )
+
+AnnotationAssertion(rdfs:label <http://www.w3.org/2001/XMLSchema#date > "xsd:date "@en)
+
+
+############################
+#   Classes
+############################
+
+# Class: <http://dbpedia.org/ontology/Continent> (dbo:Continent)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/Continent> "Un continente es una gran área de tierra emergida de la costra terrestre"@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/Continent> "dbo:Continent"@en)
+SubClassOf(<http://dbpedia.org/ontology/Continent> <http://dbpedia.org/ontology/Place>)
+
+# Class: <http://dbpedia.org/ontology/Country> (dbo:Country)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/Country> "Un país ​ es un territorio con características geográficas y culturales propias, que puede o no constituir un Estado soberano o una entidad política dentro de un Estado"@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/Country> "dbo:Country"@en)
+SubClassOf(<http://dbpedia.org/ontology/Country> <http://dbpedia.org/ontology/Place>)
+
+# Class: <http://dbpedia.org/ontology/Place> (dbo:Place)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/Place> "Cosas o lugares inmóviles"@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/Place> "dbo:Place"@en)
+EquivalentClasses(<http://dbpedia.org/ontology/Place> <https://schema.org/Place>)
+
+# Class: <http://dbpedia.org/ontology/Province> (dbo:Province)
+
+AnnotationAssertion(rdfs:comment <http://dbpedia.org/ontology/Province> "Un órgano administrativo que gobierna una unidad territorial en el nivel intermedio, entre el nivel local y el nacional."@es)
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/Province> "dbo:Province"@en)
+SubClassOf(<http://dbpedia.org/ontology/Province> <http://dbpedia.org/ontology/Place>)
+
+# Class: <http://schema.org/Observation> (schema:Observation)
+
+AnnotationAssertion(rdfs:label <http://schema.org/Observation> "schema:Observation"@en)
+
+# Class: sio:SIO_000715 (sio:Patient)
+
+AnnotationAssertion(rdfs:comment sio:SIO_000715 "Persona que fue diagnosticada con el virus en su organismo"@es)
+AnnotationAssertion(rdfs:label sio:SIO_000715 "sio:Patient"@en)
+EquivalentClasses(sio:SIO_000715 onto:Patient)
+SubClassOf(sio:SIO_000715 owl:Thing)
+
+# Class: onto:ActiveCase (newOnto:Active_cases)
+
+AnnotationAssertion(rdfs:comment onto:ActiveCase "Número de casos de COVID-19 que se encuentran activos"@es)
+AnnotationAssertion(rdfs:label onto:ActiveCase "newOnto:Active_cases"@en)
+SubClassOf(onto:ActiveCase onto:Statistic)
+
+# Class: onto:CaseCovid (newOnto:CaseCovid)
+
+AnnotationAssertion(rdfs:comment onto:CaseCovid "Hace referencia a un caso de COVID-19"@es)
+AnnotationAssertion(rdfs:label onto:CaseCovid "newOnto:CaseCovid"@en)
+
+# Class: onto:ConfirmedCase (newOnto:Confirmed_cases)
+
+AnnotationAssertion(rdfs:comment onto:ConfirmedCase "Número de casos de COVID-19 confirmados"@es)
+AnnotationAssertion(rdfs:label onto:ConfirmedCase "newOnto:Confirmed_cases"@en)
+SubClassOf(onto:ConfirmedCase onto:Statistic)
+
+# Class: onto:DeathCase (newOnto:Deaths_cases)
+
+AnnotationAssertion(rdfs:comment onto:DeathCase "Número de casos de personas fallecidas con COVID-19"@es)
+AnnotationAssertion(rdfs:label onto:DeathCase "newOnto:Deaths_cases"@en)
+SubClassOf(onto:DeathCase onto:Statistic)
+
+# Class: onto:GovernmentAction (newOnto:Government_Action)
+
+AnnotationAssertion(rdfs:comment onto:GovernmentAction "Acciones para mitigar la propagación del virus realizada por un gobierno en un país"@es)
+AnnotationAssertion(rdfs:label onto:GovernmentAction "newOnto:Government_Action"@en)
+SubClassOf(onto:GovernmentAction owl:Thing)
+
+# Class: onto:HospitalizedCase (newOnto:Hospitalized_cases)
+
+AnnotationAssertion(rdfs:comment onto:HospitalizedCase "Número de casos de personas hospitalizadas con COVID-19"@es)
+AnnotationAssertion(rdfs:label onto:HospitalizedCase "newOnto:Hospitalized_cases"@en)
+SubClassOf(onto:HospitalizedCase onto:Statistic)
+
+# Class: onto:MedicalInformation (newOnto:Medical_Information)
+
+AnnotationAssertion(rdfs:comment onto:MedicalInformation "Información médica correspondiente al paciente en cuestión"@es)
+AnnotationAssertion(rdfs:label onto:MedicalInformation "newOnto:Medical_Information"@en)
+
+# Class: onto:Patient (newOnto:Patient)
+
+AnnotationAssertion(rdfs:label onto:Patient "newOnto:Patient"@en)
+
+# Class: onto:RecoveredCase (newOnto:Recovered_cases)
+
+AnnotationAssertion(rdfs:comment onto:RecoveredCase "Número de casos de personas recuperadas de la enfermedad de COVID-19"@es)
+AnnotationAssertion(rdfs:label onto:RecoveredCase "newOnto:Recovered_cases"@en)
+SubClassOf(onto:RecoveredCase onto:Statistic)
+
+# Class: onto:Statistic (newOnto:Statistic)
+
+AnnotationAssertion(rdfs:comment onto:Statistic "Ofrece datos sobre el numero de personas afectadas directamente con el virus."@es)
+AnnotationAssertion(rdfs:label onto:Statistic "newOnto:Statistic"@en)
+SubClassOf(onto:Statistic <http://schema.org/Observation>)
+
+# Class: onto:Test (newOnto:Test)
+
+AnnotationAssertion(rdfs:comment onto:Test "Prueba realizada para confirmar la presencia de un virus en el organismo"@es)
+AnnotationAssertion(rdfs:label onto:Test "newOnto:Test"@en)
+SubClassOf(onto:Test <http://schema.org/Observation>)
+
+# Class: <http://www.w3.org/ns/dcat#Catalog> (dcat:Catalog)
+
+AnnotationAssertion(rdfs:comment <http://www.w3.org/ns/dcat#Catalog> "Una colección curada de metadatos sobre recursos (por ejemplo, conjuntos de datos y servicios de datos en el contexto de un catálogo de datos)"@es)
+AnnotationAssertion(rdfs:label <http://www.w3.org/ns/dcat#Catalog> "dcat:Catalog"@en)
+
+# Class: <http://www.w3.org/ns/dcat#Dataset> (dcat:Dataset)
+
+AnnotationAssertion(rdfs:comment <http://www.w3.org/ns/dcat#Dataset> "Una colección de datos, publicada o curada por un solo agente, y disponible para acceso o descarga en una o más representaciones."@es)
+AnnotationAssertion(rdfs:label <http://www.w3.org/ns/dcat#Dataset> "dcat:Dataset"@en)
+EquivalentClasses(<http://www.w3.org/ns/dcat#Dataset> <https://schema.org/Dataset>)
+
+# Class: <http://xmlns.com/foaf/0.1/Organization> (foaf:Organization)
+
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/Organization> "La clase Organización representa un tipo de Agente correspondiente a instituciones sociales como empresas, sociedades, etc."@es)
+AnnotationAssertion(rdfs:label <http://xmlns.com/foaf/0.1/Organization> "foaf:Organization"@en)
+
+# Class: <http://xmlns.com/foaf/0.1/Person> (foaf:Person)
+
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/Person> "Ser sociable que vive y se desarrolla en sociedad."@es)
+AnnotationAssertion(rdfs:comment <http://xmlns.com/foaf/0.1/Person> "sociable entity who lives and develops in society."@en)
+AnnotationAssertion(rdfs:label <http://xmlns.com/foaf/0.1/Person> "foaf:Person"@en)
+
+# Class: <https://schema.org/Dataset> (schema:Dataset)
+
+AnnotationAssertion(rdfs:label <https://schema.org/Dataset> "schema:Dataset"@en)
+
+# Class: <https://schema.org/Place> (schema:Place)
+
+AnnotationAssertion(rdfs:label <https://schema.org/Place> "schema:Place"@en)
+
+
+############################
+#   Named Individuals
+############################
+
+# Individual: <http://dbpedia.org/ontology/Country-> (dbo:Country-)
+
+AnnotationAssertion(rdfs:label <http://dbpedia.org/ontology/Country-> "dbo:Country-"@en)
+
+
+)

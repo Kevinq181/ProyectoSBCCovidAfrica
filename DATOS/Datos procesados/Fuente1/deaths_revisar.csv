@@ -1,0 +1,1277 @@
+deathsCode;date;deathsQuantity;deathsTotalQuantity;nameCountry;nameDataset
+Deaths-000001;2020-06-16;94;1766;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000002;2020-06-16;2;93;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000003;2020-06-16;1;4;Mozambique;dead_cases_africa_ncov_2020-06-16
+Deaths-000004;2020-06-16;1;74;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000005;2020-06-16;4;58;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000006;2020-06-16;4;14;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000007;2020-06-16;2;106;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000008;2020-06-16;1;105;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000009;2020-06-16;1;31;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000010;2020-06-16;1;61;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000011;2020-06-16;2;12;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000012;2020-06-16;6;70;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000013;2020-06-15;1;3;Comoras;dead_cases_africa_ncov_2020-06-16
+Deaths-000014;2020-06-15;4;27;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000015;2020-06-15;10;777;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000016;2020-06-15;4;424;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000017;2020-06-15;88;1568;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000018;2020-06-15;4;91;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000019;2020-06-15;1;7;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-000020;2020-06-15;1;46;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000021;2020-06-15;97;1672;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000022;2020-06-15;1;277;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000023;2020-06-15;1;104;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000024;2020-06-15;3;60;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000025;2020-06-15;2;10;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000026;2020-06-15;4;64;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000027;2020-06-14;1;26;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000028;2020-06-14;3;10;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000029;2020-06-14;1;33;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000030;2020-06-14;2;27;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000031;2020-06-14;2;9;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000032;2020-06-14;5;112;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000033;2020-06-14;13;420;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000034;2020-06-14;4;87;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000035;2020-06-14;57;1480;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000036;2020-06-14;1;276;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000037;2020-06-14;91;1575;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000038;2020-06-14;7;767;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000039;2020-06-14;1;6;Malaui;dead_cases_africa_ncov_2020-06-16
+Deaths-000040;2020-06-14;3;30;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000041;2020-06-14;1;4;Suazilandia;dead_cases_africa_ncov_2020-06-16
+Deaths-000042;2020-06-14;1;11;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-000043;2020-06-14;1;73;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000044;2020-06-14;3;103;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000045;2020-06-14;1;88;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000046;2020-06-14;2;43;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000047;2020-06-14;1;3;Mozambique;dead_cases_africa_ncov_2020-06-16
+Deaths-000048;2020-06-14;2;57;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000049;2020-06-14;2;60;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000050;2020-06-14;2;8;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000051;2020-06-13;9;468;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000052;2020-06-13;6;54;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000053;2020-06-13;2;275;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000054;2020-06-13;1;7;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000055;2020-06-13;1;107;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000056;2020-06-13;8;407;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000057;2020-06-13;1;66;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000058;2020-06-13;62;1484;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000059;2020-06-13;69;1423;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000060;2020-06-13;2;83;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000061;2020-06-13;1;6;Angola;dead_cases_africa_ncov_2020-06-16
+Deaths-000062;2020-06-13;3;104;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000063;2020-06-13;2;27;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000064;2020-06-13;9;760;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000065;2020-06-13;3;41;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000066;2020-06-13;2;87;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000067;2020-06-13;1;5;Malaui;dead_cases_africa_ncov_2020-06-16
+Deaths-000068;2020-06-13;4;100;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000069;2020-06-13;1;6;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000070;2020-06-13;8;55;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000071;2020-06-13;2;58;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000072;2020-06-12;12;459;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000073;2020-06-12;1;25;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000074;2020-06-12;2;273;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000075;2020-06-12;5;106;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000076;2020-06-12;12;399;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000077;2020-06-12;20;32;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000078;2020-06-12;4;45;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000079;2020-06-12;70;1354;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000080;2020-06-12;1;51;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000081;2020-06-12;45;1422;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000082;2020-06-12;7;81;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000083;2020-06-12;1;6;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-000084;2020-06-12;1;25;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000085;2020-06-12;10;751;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000086;2020-06-12;4;101;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000087;2020-06-12;1;38;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000088;2020-06-12;3;15;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000089;2020-06-12;4;96;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000090;2020-06-12;7;47;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000091;2020-06-12;1;212;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000092;2020-06-11;14;447;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000093;2020-06-11;1;6;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000094;2020-06-11;1;24;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000095;2020-06-11;1;32;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000096;2020-06-11;1;271;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000097;2020-06-11;3;101;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000098;2020-06-11;5;387;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000099;2020-06-11;1;56;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000100;2020-06-11;1;23;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000101;2020-06-11;9;741;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000102;2020-06-11;74;1284;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000103;2020-06-11;3;74;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000104;2020-06-11;1;5;Angola;dead_cases_africa_ncov_2020-06-16
+Deaths-000105;2020-06-11;35;1377;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000106;2020-06-11;1;97;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000107;2020-06-11;3;92;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000108;2020-06-11;3;37;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000109;2020-06-11;5;40;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000110;2020-06-10;20;433;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000111;2020-06-10;56;270;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000112;2020-06-10;1;5;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000113;2020-06-10;1;7;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000114;2020-06-10;4;24;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000115;2020-06-10;6;214;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000116;2020-06-10;2;98;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000117;2020-06-10;1;25;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000118;2020-06-10;1;55;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000119;2020-06-10;17;382;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000120;2020-06-10;1;20;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000121;2020-06-10;1;22;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000122;2020-06-10;48;1210;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000123;2020-06-10;3;41;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000124;2020-06-10;8;732;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000125;2020-06-10;36;1342;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000126;2020-06-10;10;71;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000127;2020-06-10;1;211;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000128;2020-06-10;1;72;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000129;2020-06-10;2;96;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000130;2020-06-10;1;89;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000131;2020-06-10;2;54;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000132;2020-06-10;3;35;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000133;2020-06-09;12;413;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000134;2020-06-09;6;96;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000135;2020-06-09;4;365;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000136;2020-06-09;2;61;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000137;2020-06-09;35;1306;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000138;2020-06-09;82;1162;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000139;2020-06-09;9;724;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000140;2020-06-09;1;71;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000141;2020-06-09;1;50;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000142;2020-06-09;2;210;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000143;2020-06-09;2;94;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000144;2020-06-09;3;34;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000145;2020-06-09;1;85;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000146;2020-06-09;3;88;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000147;2020-06-09;5;32;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000148;2020-06-08;12;401;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000149;2020-06-08;1;6;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000150;2020-06-08;1;31;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000151;2020-06-08;2;90;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000152;2020-06-08;7;361;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000153;2020-06-08;3;52;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000154;2020-06-08;2;38;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000155;2020-06-08;1;10;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000156;2020-06-08;2;208;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000157;2020-06-08;34;1271;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000158;2020-06-08;1;70;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000159;2020-06-08;82;1080;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000160;2020-06-08;4;59;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000161;2020-06-08;1;84;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000162;2020-06-08;8;715;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000163;2020-06-08;1;85;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000164;2020-06-08;3;10;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-000165;2020-06-08;3;31;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000166;2020-06-07;17;389;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000167;2020-06-07;2;24;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000168;2020-06-07;1;49;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000169;2020-06-07;4;48;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000170;2020-06-07;3;88;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000171;2020-06-07;12;354;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000172;2020-06-07;46;998;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000173;2020-06-07;6;55;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000174;2020-06-07;39;1237;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000175;2020-06-07;1;83;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000176;2020-06-07;9;707;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000177;2020-06-07;2;28;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000178;2020-06-07;2;92;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000179;2020-06-07;1;84;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000180;2020-06-07;7;27;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000181;2020-06-07;1;9;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000182;2020-06-06;13;372;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000183;2020-06-06;1;4;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000184;2020-06-06;5;19;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000185;2020-06-06;3;85;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000186;2020-06-06;1;206;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000187;2020-06-06;9;342;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000188;2020-06-06;2;49;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000189;2020-06-06;3;90;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000190;2020-06-06;2;22;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000191;2020-06-06;44;952;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000192;2020-06-06;1;8;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000193;2020-06-06;1;69;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000194;2020-06-06;6;49;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000195;2020-06-06;32;1198;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000196;2020-06-06;1;48;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000197;2020-06-06;8;698;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000198;2020-06-06;4;83;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000199;2020-06-06;3;82;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000200;2020-06-06;1;82;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000201;2020-06-06;1;20;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000202;2020-06-05;12;359;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000203;2020-06-05;2;44;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000204;2020-06-05;1;5;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000205;2020-06-05;1;36;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000206;2020-06-05;10;333;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000207;2020-06-05;2;47;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000208;2020-06-05;3;12;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000209;2020-06-05;4;43;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000210;2020-06-05;60;908;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000211;2020-06-05;40;1166;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000212;2020-06-05;2;68;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000213;2020-06-05;4;42;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000214;2020-06-05;9;690;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000215;2020-06-05;2;87;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000216;2020-06-05;1;79;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000217;2020-06-05;1;19;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000218;2020-06-04;14;347;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000219;2020-06-04;2;30;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000220;2020-06-04;3;81;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000221;2020-06-04;1;9;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000222;2020-06-04;8;323;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000223;2020-06-04;2;205;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000224;2020-06-04;1;21;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000225;2020-06-04;5;39;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000226;2020-06-04;38;1126;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000227;2020-06-04;56;848;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000228;2020-06-04;1;208;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000229;2020-06-04;8;681;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000230;2020-06-04;6;85;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000231;2020-06-04;4;78;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000232;2020-06-04;1;7;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000233;2020-06-04;1;18;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000234;2020-06-04;1;207;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000235;2020-06-03;19;333;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000236;2020-06-03;3;78;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000237;2020-06-03;1;315;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000238;2020-06-03;2;35;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000239;2020-06-03;37;792;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000240;2020-06-03;36;1088;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000241;2020-06-03;3;34;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000242;2020-06-03;3;203;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000243;2020-06-03;6;673;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000244;2020-06-03;1;47;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000245;2020-06-03;1;79;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000246;2020-06-03;1;26;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000247;2020-06-03;3;74;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000248;2020-06-03;3;17;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000249;2020-06-03;2;45;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000250;2020-06-02;7;314;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000251;2020-06-02;1;49;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000252;2020-06-02;3;75;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000253;2020-06-02;15;314;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000254;2020-06-02;1;5;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-000255;2020-06-02;1;2;Ruanda;dead_cases_africa_ncov_2020-06-16
+Deaths-000256;2020-06-02;3;20;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000257;2020-06-02;47;1052;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000258;2020-06-02;50;755;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000259;2020-06-02;1;200;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000260;2020-06-02;5;31;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000261;2020-06-02;6;667;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000262;2020-06-02;4;14;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000263;2020-06-02;1;206;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000264;2020-06-02;2;71;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000265;2020-06-02;1;25;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000266;2020-06-02;2;14;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000267;2020-06-01;9;307;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000268;2020-06-01;1;28;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000269;2020-06-01;2;38;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000270;2020-06-01;1;43;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000271;2020-06-01;12;299;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000272;2020-06-01;1;65;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000273;2020-06-01;1;66;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000274;2020-06-01;1;3;Suazilandia;dead_cases_africa_ncov_2020-06-16
+Deaths-000275;2020-06-01;8;661;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000276;2020-06-01;2;199;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000277;2020-06-01;3;26;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000278;2020-06-01;46;1005;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000279;2020-06-01;5;69;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000280;2020-06-01;1;78;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000281;2020-06-01;1;79;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000282;2020-06-01;22;705;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000283;2020-06-01;1;12;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000284;2020-05-31;12;298;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000285;2020-05-31;2;4;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000286;2020-05-31;1;23;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000287;2020-05-31;14;287;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000288;2020-05-31;40;683;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000289;2020-05-31;2;22;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000290;2020-05-31;6;197;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000291;2020-05-31;46;959;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000292;2020-05-31;1;205;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000293;2020-05-31;7;653;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000294;2020-05-31;1;20;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000295;2020-05-31;2;24;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000296;2020-05-31;1;77;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000297;2020-05-31;5;78;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000298;2020-05-31;1;46;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000299;2020-05-31;1;64;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000300;2020-05-31;3;11;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000301;2020-05-30;24;286;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000302;2020-05-30;6;191;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000303;2020-05-30;1;2;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000304;2020-05-30;1;36;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000305;2020-05-30;3;72;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000306;2020-05-30;2;17;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000307;2020-05-30;12;273;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000308;2020-05-30;1;33;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000309;2020-05-30;1;1;Ruanda;dead_cases_africa_ncov_2020-06-16
+Deaths-000310;2020-05-30;29;262;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000311;2020-05-30;32;643;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000312;2020-05-30;1;204;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000313;2020-05-30;34;913;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000314;2020-05-30;8;646;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000315;2020-05-30;1;35;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000316;2020-05-30;1;63;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000317;2020-05-30;1;73;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000318;2020-05-30;3;76;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000319;2020-05-30;1;6;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000320;2020-05-30;1;203;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000321;2020-05-29;1;23;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000322;2020-05-29;2;22;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000323;2020-05-29;1;42;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000324;2020-05-29;8;185;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000325;2020-05-29;2;261;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000326;2020-05-29;1;15;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000327;2020-05-29;34;611;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000328;2020-05-29;1;20;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000329;2020-05-29;8;638;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000330;2020-05-29;3;5;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000331;2020-05-29;34;879;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000332;2020-05-29;1;73;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000333;2020-05-29;4;62;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000334;2020-05-28;1;8;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000335;2020-05-28;1;32;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000336;2020-05-28;5;259;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000337;2020-05-28;25;577;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000338;2020-05-28;1;8;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000339;2020-05-28;29;845;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000340;2020-05-28;1;5;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000341;2020-05-28;3;19;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000342;2020-05-28;2;41;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000343;2020-05-28;1;2;Mozambique;dead_cases_africa_ncov_2020-06-16
+Deaths-000344;2020-05-28;7;630;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000345;2020-05-28;1;65;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000346;2020-05-28;5;72;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000347;2020-05-28;2;72;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000348;2020-05-28;2;20;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000349;2020-05-28;3;58;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000350;2020-05-28;1;7;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000351;2020-05-27;38;233;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000352;2020-05-27;1;22;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000353;2020-05-27;1;69;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000354;2020-05-27;3;45;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000355;2020-05-27;5;254;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000356;2020-05-27;1;39;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000357;2020-05-27;3;16;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000358;2020-05-27;1;4;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000359;2020-05-27;1;31;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000360;2020-05-27;28;552;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000361;2020-05-27;1;64;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000362;2020-05-27;19;816;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000363;2020-05-27;1;2;Comoras;dead_cases_africa_ncov_2020-06-16
+Deaths-000364;2020-05-27;2;64;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000365;2020-05-27;2;10;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000366;2020-05-27;6;623;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000367;2020-05-27;4;18;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000368;2020-05-27;3;55;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000369;2020-05-27;2;177;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000370;2020-05-26;11;195;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000371;2020-05-26;1;21;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000372;2020-05-26;1;27;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000373;2020-05-26;2;34;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000374;2020-05-26;1;7;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000375;2020-05-26;1;38;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000376;2020-05-26;16;249;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000377;2020-05-26;1;4;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-000378;2020-05-26;4;13;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000379;2020-05-26;43;524;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000380;2020-05-26;1;63;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000381;2020-05-26;4;175;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000382;2020-05-26;1;62;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000383;2020-05-26;1;37;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000384;2020-05-26;8;617;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000385;2020-05-26;14;797;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000386;2020-05-26;2;19;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000387;2020-05-26;1;67;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000388;2020-05-26;3;70;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000389;2020-05-26;2;202;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000390;2020-05-26;1;6;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000391;2020-05-25;14;184;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000392;2020-05-25;1;68;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000393;2020-05-25;2;67;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000394;2020-05-25;7;233;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000395;2020-05-25;1;12;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000396;2020-05-25;2;14;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000397;2020-05-25;1;13;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000398;2020-05-25;1;36;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000399;2020-05-25;1;62;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000400;2020-05-25;3;9;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000401;2020-05-25;1;61;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000402;2020-05-25;52;481;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000403;2020-05-25;6;171;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000404;2020-05-25;1;1;Mozambique;dead_cases_africa_ncov_2020-06-16
+Deaths-000405;2020-05-25;19;783;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000406;2020-05-25;9;609;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000407;2020-05-25;4;14;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000408;2020-05-25;1;52;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000409;2020-05-25;2;42;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000410;2020-05-25;5;66;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000411;2020-05-25;1;17;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000412;2020-05-25;1;200;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000413;2020-05-24;1;53;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000414;2020-05-24;5;170;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000415;2020-05-24;6;165;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000416;2020-05-24;4;67;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000417;2020-05-24;1;4;Malaui;dead_cases_africa_ncov_2020-06-16
+Deaths-000418;2020-05-24;1;12;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000419;2020-05-24;2;8;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000420;2020-05-24;2;40;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000421;2020-05-24;5;226;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000422;2020-05-24;22;429;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000423;2020-05-24;29;764;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000424;2020-05-24;8;600;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000425;2020-05-24;1;199;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000426;2020-05-24;1;51;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000427;2020-05-24;2;65;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000428;2020-05-23;19;165;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000429;2020-05-23;1;32;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000430;2020-05-23;1;48;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000431;2020-05-23;1;35;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000432;2020-05-23;1;61;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000433;2020-05-23;1;30;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000434;2020-05-23;10;407;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000435;2020-05-23;1;4;Angola;dead_cases_africa_ncov_2020-06-16
+Deaths-000436;2020-05-23;1;60;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000437;2020-05-23;28;735;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000438;2020-05-23;1;63;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000439;2020-05-23;1;198;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000440;2020-05-23;10;592;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000441;2020-05-23;1;1;República Centroafricana;dead_cases_africa_ncov_2020-06-16
+Deaths-000442;2020-05-23;1;34;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000443;2020-05-22;9;146;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000444;2020-05-22;1;20;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000445;2020-05-22;2;26;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000446;2020-05-22;3;38;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000447;2020-05-22;10;221;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000448;2020-05-22;1;6;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000449;2020-05-22;2;62;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000450;2020-05-22;1;11;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000451;2020-05-22;16;137;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000452;2020-05-22;3;159;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000453;2020-05-22;11;707;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000454;2020-05-22;28;397;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000455;2020-05-22;1;59;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000456;2020-05-22;7;582;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000457;2020-05-22;1;197;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000458;2020-05-21;1;16;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000459;2020-05-21;1;24;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000460;2020-05-21;2;63;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000461;2020-05-21;9;211;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000462;2020-05-21;1;5;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000463;2020-05-21;5;60;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000464;2020-05-21;2;60;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000465;2020-05-21;1;33;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000466;2020-05-21;2;6;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000467;2020-05-21;16;696;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000468;2020-05-21;10;121;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000469;2020-05-21;1;35;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000470;2020-05-21;8;156;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000471;2020-05-21;1;58;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000472;2020-05-21;1;10;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000473;2020-05-21;3;10;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000474;2020-05-21;1;3;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000475;2020-05-21;7;575;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000476;2020-05-21;30;369;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000477;2020-05-21;2;32;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000478;2020-05-21;2;196;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000479;2020-05-21;2;202;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000480;2020-05-20;1;34;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000481;2020-05-20;6;148;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000482;2020-05-20;3;11;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000483;2020-05-20;1;29;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000484;2020-05-20;8;200;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000485;2020-05-20;3;58;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000486;2020-05-20;27;339;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000487;2020-05-20;7;568;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000488;2020-05-20;2;9;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000489;2020-05-20;2;55;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000490;2020-05-20;1;57;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000491;2020-05-20;21;680;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000492;2020-05-20;2;61;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000493;2020-05-20;1;194;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000494;2020-05-19;1;19;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000495;2020-05-19;1;47;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000496;2020-05-19;1;12;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000497;2020-05-19;1;3;Angola;dead_cases_africa_ncov_2020-06-16
+Deaths-000498;2020-05-19;1;192;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000499;2020-05-19;6;111;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000500;2020-05-19;1;8;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000501;2020-05-19;2;6;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000502;2020-05-19;1;2;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000503;2020-05-19;26;312;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000504;2020-05-19;14;659;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000505;2020-05-19;3;56;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000506;2020-05-19;6;561;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000507;2020-05-19;1;53;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000508;2020-05-19;2;59;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000509;2020-05-19;1;193;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000510;2020-05-19;2;30;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000511;2020-05-19;2;31;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000512;2020-05-18;2;142;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000513;2020-05-18;2;18;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000514;2020-05-18;1;23;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000515;2020-05-18;1;46;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000516;2020-05-18;9;191;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000517;2020-05-18;1;12;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000518;2020-05-18;22;286;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000519;2020-05-18;1;28;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000520;2020-05-18;1;55;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000521;2020-05-18;1;28;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000522;2020-05-18;15;645;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000523;2020-05-18;1;33;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000524;2020-05-18;1;57;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000525;2020-05-18;7;555;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000526;2020-05-18;1;27;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000527;2020-05-18;3;7;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000528;2020-05-17;1;52;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000529;2020-05-17;1;22;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000530;2020-05-17;8;105;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000531;2020-05-17;6;182;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000532;2020-05-17;2;27;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000533;2020-05-17;3;264;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000534;2020-05-17;3;54;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000535;2020-05-17;1;26;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000536;2020-05-17;3;53;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000537;2020-05-17;1;4;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000538;2020-05-17;18;630;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000539;2020-05-17;5;32;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000540;2020-05-17;6;548;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000541;2020-05-17;1;56;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000542;2020-05-17;4;52;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000543;2020-05-17;1;1;Madagascar;dead_cases_africa_ncov_2020-06-16
+Deaths-000544;2020-05-16;1;21;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000545;2020-05-16;1;29;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000546;2020-05-16;1;3;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-000547;2020-05-16;5;176;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000548;2020-05-16;1;11;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000549;2020-05-16;2;50;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000550;2020-05-16;2;48;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000551;2020-05-16;14;261;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000552;2020-05-16;1;25;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000553;2020-05-16;6;97;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000554;2020-05-16;1;4;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000555;2020-05-16;20;612;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000556;2020-05-16;6;542;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000557;2020-05-16;8;50;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000558;2020-05-16;2;55;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000559;2020-05-16;2;192;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000560;2020-05-15;1;27;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000561;2020-05-15;1;16;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000562;2020-05-15;3;4;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000563;2020-05-15;10;61;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000564;2020-05-15;4;28;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000565;2020-05-15;1;3;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000566;2020-05-15;4;171;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000567;2020-05-15;1;51;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000568;2020-05-15;7;536;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000569;2020-05-15;9;247;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000570;2020-05-15;2;48;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000571;2020-05-15;21;592;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000572;2020-05-15;1;4;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000573;2020-05-15;1;140;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000574;2020-05-15;2;25;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000575;2020-05-14;1;15;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000576;2020-05-14;1;91;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000577;2020-05-14;1;1;Sudán del Sur;dead_cases_africa_ncov_2020-06-16
+Deaths-000578;2020-05-14;1;7;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000579;2020-05-14;1;51;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000580;2020-05-14;3;167;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000581;2020-05-14;1;10;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000582;2020-05-14;1;50;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000583;2020-05-14;2;46;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000584;2020-05-14;7;529;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000585;2020-05-14;4;46;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000586;2020-05-14;15;571;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000587;2020-05-14;1;190;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000588;2020-05-14;19;238;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000589;2020-05-14;4;15;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000590;2020-05-14;2;42;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000591;2020-05-14;1;53;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000592;2020-05-14;1;189;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000593;2020-05-14;1;23;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000594;2020-05-13;2;6;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000595;2020-05-13;3;139;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000596;2020-05-13;10;90;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000597;2020-05-13;6;164;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000598;2020-05-13;6;26;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000599;2020-05-13;13;219;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000600;2020-05-13;2;49;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000601;2020-05-13;3;24;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000602;2020-05-13;4;44;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000603;2020-05-13;2;24;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000604;2020-05-13;1;22;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000605;2020-05-13;4;40;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000606;2020-05-13;12;556;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000607;2020-05-13;7;522;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000608;2020-05-13;2;42;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000609;2020-05-13;2;21;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000610;2020-05-12;11;136;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000611;2020-05-12;3;14;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000612;2020-05-12;6;158;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000613;2020-05-12;6;50;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000614;2020-05-12;1;2;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-000615;2020-05-12;6;80;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000616;2020-05-12;1;7;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000617;2020-05-12;1;47;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000618;2020-05-12;9;40;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000619;2020-05-12;11;544;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000620;2020-05-12;8;515;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000621;2020-05-12;1;20;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000622;2020-05-12;1;40;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000623;2020-05-12;3;36;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000624;2020-05-12;2;152;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000625;2020-05-11;1;51;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000626;2020-05-11;11;125;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000627;2020-05-11;3;44;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000628;2020-05-11;7;150;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000629;2020-05-11;4;74;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000630;2020-05-11;1;9;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000631;2020-05-11;3;4;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000632;2020-05-11;1;6;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000633;2020-05-11;1;50;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000634;2020-05-11;1;39;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000635;2020-05-11;1;19;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000636;2020-05-11;5;507;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000637;2020-05-11;8;533;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000638;2020-05-11;1;33;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000639;2020-05-11;1;52;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000640;2020-05-11;12;206;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000641;2020-05-10;1;11;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000642;2020-05-10;15;143;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000643;2020-05-10;6;70;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000644;2020-05-10;1;11;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000645;2020-05-10;8;194;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000646;2020-05-10;1;46;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000647;2020-05-10;1;19;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000648;2020-05-10;11;525;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000649;2020-05-10;8;502;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000650;2020-05-10;2;32;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000651;2020-05-10;1;38;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000652;2020-05-10;3;51;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000653;2020-05-10;1;18;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000654;2020-05-10;2;188;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000655;2020-05-10;4;114;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000656;2020-05-09;1;49;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000657;2020-05-09;1;45;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000658;2020-05-09;2;41;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000659;2020-05-09;5;64;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000660;2020-05-09;1;21;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000661;2020-05-09;11;128;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000662;2020-05-09;1;87;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000663;2020-05-09;4;22;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000664;2020-05-09;1;3;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000665;2020-05-09;1;45;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000666;2020-05-09;3;31;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000667;2020-05-09;1;17;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000668;2020-05-09;1;18;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000669;2020-05-09;11;514;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000670;2020-05-09;1;16;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000671;2020-05-09;2;37;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000672;2020-05-09;6;494;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000673;2020-05-09;8;186;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000674;2020-05-09;4;48;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000675;2020-05-09;1;30;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000676;2020-05-09;1;5;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000677;2020-05-09;1;15;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000678;2020-05-09;3;7;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-000679;2020-05-08;3;21;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-000680;2020-05-08;23;110;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000681;2020-05-08;10;117;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000682;2020-05-08;3;35;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000683;2020-05-08;17;178;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000684;2020-05-08;2;44;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000685;2020-05-08;1;186;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000686;2020-05-08;21;503;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000687;2020-05-08;1;14;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000688;2020-05-08;7;59;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000689;2020-05-08;1;17;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000690;2020-05-08;5;488;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000691;2020-05-08;1;10;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000692;2020-05-08;2;185;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000693;2020-05-07;3;39;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000694;2020-05-07;1;28;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000695;2020-05-07;22;86;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000696;2020-05-07;1;44;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000697;2020-05-07;4;107;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000698;2020-05-07;1;5;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000699;2020-05-07;2;20;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000700;2020-05-07;4;42;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000701;2020-05-07;8;161;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000702;2020-05-07;2;16;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000703;2020-05-07;10;27;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000704;2020-05-07;13;482;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000705;2020-05-07;7;483;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000706;2020-05-07;3;29;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000707;2020-05-07;5;44;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000708;2020-05-07;1;13;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000709;2020-05-06;2;18;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-000710;2020-05-06;3;52;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000711;2020-05-06;1;36;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000712;2020-05-06;5;103;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000713;2020-05-06;2;8;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000714;2020-05-06;5;153;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000715;2020-05-06;1;3;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-000716;2020-05-06;1;183;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000717;2020-05-06;1;2;Suazilandia;dead_cases_africa_ncov_2020-06-16
+Deaths-000718;2020-05-06;17;469;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000719;2020-05-06;6;476;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000720;2020-05-06;1;39;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000721;2020-05-06;2;26;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000722;2020-05-06;3;14;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000723;2020-05-06;1;182;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000724;2020-05-05;1;4;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000725;2020-05-05;1;11;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000726;2020-05-05;4;49;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000727;2020-05-05;1;12;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000728;2020-05-05;1;35;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000729;2020-05-05;5;98;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000730;2020-05-05;1;2;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000731;2020-05-05;1;38;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000732;2020-05-05;1;18;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000733;2020-05-05;10;148;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000734;2020-05-05;1;181;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000735;2020-05-05;7;17;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000736;2020-05-05;16;452;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000737;2020-05-05;5;470;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000738;2020-05-05;3;32;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000739;2020-05-05;2;11;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000740;2020-05-05;3;38;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000741;2020-05-05;1;4;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-000742;2020-05-05;1;4;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-000743;2020-05-05;1;180;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000744;2020-05-05;1;11;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000745;2020-05-04;1;10;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000746;2020-05-04;2;48;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000747;2020-05-04;2;20;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000748;2020-05-04;4;45;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000749;2020-05-04;6;93;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000750;2020-05-04;1;43;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000751;2020-05-04;1;6;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000752;2020-05-04;1;1;Comoras;dead_cases_africa_ncov_2020-06-16
+Deaths-000753;2020-05-04;1;37;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000754;2020-05-04;1;10;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000755;2020-05-04;7;138;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000756;2020-05-04;2;179;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000757;2020-05-04;2;465;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000758;2020-05-04;7;436;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000759;2020-05-04;3;35;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000760;2020-05-04;2;29;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000761;2020-05-04;1;9;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000762;2020-05-04;3;177;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000763;2020-05-04;1;10;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000764;2020-05-03;1;46;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000765;2020-05-03;2;9;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000766;2020-05-03;2;87;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000767;2020-05-03;2;17;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000768;2020-05-03;1;36;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000769;2020-05-03;1;34;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000770;2020-05-03;14;429;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000771;2020-05-03;8;131;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000772;2020-05-03;2;24;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000773;2020-05-03;1;174;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000774;2020-05-03;4;463;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000775;2020-05-03;1;32;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000776;2020-05-03;1;27;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000777;2020-05-02;1;45;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000778;2020-05-02;1;33;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000779;2020-05-02;17;85;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000780;2020-05-02;2;3;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000781;2020-05-02;1;2;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-000782;2020-05-02;1;42;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000783;2020-05-02;1;5;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000784;2020-05-02;5;41;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000785;2020-05-02;2;35;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000786;2020-05-02;7;123;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000787;2020-05-02;5;10;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000788;2020-05-02;6;459;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000789;2020-05-02;1;173;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000790;2020-05-02;9;415;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000791;2020-05-02;1;18;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000792;2020-05-02;3;31;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000793;2020-05-02;1;22;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000794;2020-05-02;1;8;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000795;2020-05-02;1;172;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000796;2020-05-01;3;64;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000797;2020-05-01;5;36;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000798;2020-05-01;10;68;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000799;2020-05-01;1;15;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000800;2020-05-01;1;4;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000801;2020-05-01;1;32;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000802;2020-05-01;1;33;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000803;2020-05-01;13;116;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000804;2020-05-01;1;2;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-000805;2020-05-01;14;406;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000806;2020-05-01;3;453;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000807;2020-05-01;4;21;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000808;2020-05-01;1;171;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000809;2020-04-30;1;44;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000810;2020-04-30;2;18;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000811;2020-04-30;3;7;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000812;2020-04-30;7;58;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000813;2020-04-30;1;41;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000814;2020-04-30;1;3;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000815;2020-04-30;1;1;Santo Tomé y Príncipe;dead_cases_africa_ncov_2020-06-16
+Deaths-000816;2020-04-30;3;5;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000817;2020-04-30;2;9;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000818;2020-04-30;3;31;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000819;2020-04-30;2;170;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000820;2020-04-30;1;26;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000821;2020-04-30;12;392;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000822;2020-04-30;6;450;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000823;2020-04-30;2;17;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000824;2020-04-30;1;17;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000825;2020-04-29;1;31;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000826;2020-04-29;7;51;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000827;2020-04-29;1;43;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000828;2020-04-29;2;61;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000829;2020-04-29;1;32;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000830;2020-04-29;10;103;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000831;2020-04-29;1;15;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000832;2020-04-29;6;16;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-000833;2020-04-29;1;9;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000834;2020-04-29;1;168;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000835;2020-04-29;3;28;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000836;2020-04-29;21;380;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000837;2020-04-29;7;444;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000838;2020-04-29;1;7;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000839;2020-04-29;1;25;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000840;2020-04-29;2;167;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000841;2020-04-28;4;44;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000842;2020-04-28;1;59;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000843;2020-04-28;1;40;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000844;2020-04-28;2;31;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000845;2020-04-28;5;437;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000846;2020-04-28;3;93;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000847;2020-04-28;2;2;Chad;dead_cases_africa_ncov_2020-06-16
+Deaths-000848;2020-04-28;1;24;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000849;2020-04-28;5;16;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000850;2020-04-28;2;165;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000851;2020-04-28;22;359;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000852;2020-04-28;3;25;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000853;2020-04-28;2;28;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000854;2020-04-28;1;163;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000855;2020-04-27;2;58;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000856;2020-04-27;2;30;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000857;2020-04-27;1;39;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000858;2020-04-27;3;90;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000859;2020-04-27;1;22;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000860;2020-04-27;1;10;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-000861;2020-04-27;7;432;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000862;2020-04-27;1;162;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000863;2020-04-27;20;337;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000864;2020-04-27;3;26;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000865;2020-04-27;5;40;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000866;2020-04-26;4;16;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000867;2020-04-26;1;9;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000868;2020-04-26;1;1;Guinea-Bisáu;dead_cases_africa_ncov_2020-06-16
+Deaths-000869;2020-04-26;2;29;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000870;2020-04-26;6;425;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000871;2020-04-26;1;87;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000872;2020-04-26;2;23;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000873;2020-04-26;1;161;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000874;2020-04-26;10;317;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000875;2020-04-26;4;21;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000876;2020-04-26;5;23;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000877;2020-04-26;3;56;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000878;2020-04-26;1;4;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000879;2020-04-26;1;11;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000880;2020-04-26;1;8;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000881;2020-04-26;1;160;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000882;2020-04-25;1;12;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000883;2020-04-25;1;42;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000884;2020-04-25;3;35;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000885;2020-04-25;3;27;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000886;2020-04-25;7;86;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000887;2020-04-25;4;419;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000888;2020-04-25;13;307;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000889;2020-04-25;2;8;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000890;2020-04-25;1;17;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000891;2020-04-25;2;18;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000892;2020-04-25;10;53;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000893;2020-04-25;1;159;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000894;2020-04-24;1;7;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000895;2020-04-24;3;11;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000896;2020-04-24;1;32;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000897;2020-04-24;3;28;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000898;2020-04-24;1;2;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-000899;2020-04-24;8;415;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000900;2020-04-24;4;79;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000901;2020-04-24;3;158;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000902;2020-04-24;7;294;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000903;2020-04-24;1;3;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000904;2020-04-24;1;3;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000905;2020-04-24;1;2;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000906;2020-04-24;1;7;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000907;2020-04-24;1;10;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000908;2020-04-24;3;16;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000909;2020-04-23;3;31;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000910;2020-04-23;1;2;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-000911;2020-04-23;2;24;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000912;2020-04-23;5;407;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000913;2020-04-23;11;287;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000914;2020-04-23;4;155;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000915;2020-04-23;10;75;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000916;2020-04-23;2;16;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000917;2020-04-23;4;21;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000918;2020-04-23;1;1;Sierra Leona;dead_cases_africa_ncov_2020-06-16
+Deaths-000919;2020-04-23;2;151;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000920;2020-04-22;2;41;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000921;2020-04-22;1;1;Guinea Ecuatorial;dead_cases_africa_ncov_2020-06-16
+Deaths-000922;2020-04-22;1;4;Zimbabue;dead_cases_africa_ncov_2020-06-16
+Deaths-000923;2020-04-22;3;28;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000924;2020-04-22;2;22;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000925;2020-04-22;10;402;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000926;2020-04-22;1;14;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000927;2020-04-22;7;65;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000928;2020-04-22;12;276;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000929;2020-04-22;1;13;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000930;2020-04-22;3;17;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000931;2020-04-22;1;3;Malaui;dead_cases_africa_ncov_2020-06-16
+Deaths-000932;2020-04-22;4;149;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000933;2020-04-22;1;6;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000934;2020-04-21;1;39;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000935;2020-04-21;3;25;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000936;2020-04-21;8;392;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000937;2020-04-21;14;264;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000938;2020-04-21;3;13;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000939;2020-04-21;1;145;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000940;2020-04-21;6;14;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000941;2020-04-21;1;144;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000942;2020-04-21;1;6;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000943;2020-04-20;1;43;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000944;2020-04-20;1;22;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000945;2020-04-20;1;8;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000946;2020-04-20;1;10;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000947;2020-04-20;4;58;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000948;2020-04-20;9;384;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000949;2020-04-20;1;12;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000950;2020-04-20;3;10;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-000951;2020-04-20;11;250;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000952;2020-04-20;1;6;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-000953;2020-04-20;2;143;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000954;2020-04-20;1;5;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000955;2020-04-19;2;38;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000956;2020-04-19;2;21;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000957;2020-04-19;1;4;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000958;2020-04-19;1;38;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-000959;2020-04-19;2;7;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-000960;2020-04-19;3;9;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-000961;2020-04-19;8;375;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000962;2020-04-19;1;20;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000963;2020-04-19;15;239;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000964;2020-04-19;3;141;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000965;2020-04-19;4;54;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000966;2020-04-19;2;14;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000967;2020-04-19;1;14;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-000968;2020-04-19;1;138;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000969;2020-04-19;1;3;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-000970;2020-04-18;2;5;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000971;2020-04-18;1;8;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000972;2020-04-18;20;42;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-000973;2020-04-18;2;19;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000974;2020-04-18;1;19;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000975;2020-04-18;3;367;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000976;2020-04-18;4;11;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000977;2020-04-18;2;7;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-000978;2020-04-18;19;224;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000979;2020-04-18;1;9;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-000980;2020-04-18;1;12;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-000981;2020-04-18;2;137;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000982;2020-04-17;1;36;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000983;2020-04-17;2;7;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-000984;2020-04-17;2;25;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000985;2020-04-17;4;17;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-000986;2020-04-17;3;18;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-000987;2020-04-17;1;5;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-000988;2020-04-17;2;50;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-000989;2020-04-17;2;135;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000990;2020-04-17;16;364;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-000991;2020-04-17;2;3;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-000992;2020-04-17;1;6;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000993;2020-04-17;9;205;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-000994;2020-04-17;1;3;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-000995;2020-04-17;3;133;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-000996;2020-04-16;3;35;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-000997;2020-04-16;1;7;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-000998;2020-04-16;1;23;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-000999;2020-04-16;2;37;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001000;2020-04-16;1;13;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001001;2020-04-16;1;15;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001002;2020-04-16;5;22;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001003;2020-04-16;14;48;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001004;2020-04-16;12;348;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001005;2020-04-16;13;196;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001006;2020-04-16;2;130;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001007;2020-04-16;1;1;Suazilandia;dead_cases_africa_ncov_2020-06-16
+Deaths-001008;2020-04-16;1;11;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001009;2020-04-16;2;5;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-001010;2020-04-16;1;128;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001011;2020-04-15;1;12;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001012;2020-04-15;1;22;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001013;2020-04-15;1;35;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001014;2020-04-15;1;4;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-001015;2020-04-15;10;336;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001016;2020-04-15;5;183;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001017;2020-04-15;3;5;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-001018;2020-04-15;7;34;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001019;2020-04-15;1;10;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001020;2020-04-15;1;127;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001021;2020-04-14;2;32;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001022;2020-04-14;1;21;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001023;2020-04-14;13;326;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001024;2020-04-14;1;11;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001025;2020-04-14;1;14;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001026;2020-04-14;3;17;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001027;2020-04-14;1;5;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-001028;2020-04-14;3;13;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-001029;2020-04-14;14;178;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001030;2020-04-14;1;1;Guinea;dead_cases_africa_ncov_2020-06-16
+Deaths-001031;2020-04-13;2;30;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001032;2020-04-13;2;14;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001033;2020-04-13;2;4;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-001034;2020-04-13;1;6;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-001035;2020-04-13;1;13;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001036;2020-04-13;1;10;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-001037;2020-04-13;20;313;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001038;2020-04-13;3;34;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001039;2020-04-13;5;164;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001040;2020-04-13;6;126;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001041;2020-04-13;2;27;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001042;2020-04-13;1;1;Burundi;dead_cases_africa_ncov_2020-06-16
+Deaths-001043;2020-04-13;1;9;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001044;2020-04-13;2;120;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001045;2020-04-12;1;28;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001046;2020-04-12;1;6;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-001047;2020-04-12;1;5;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-001048;2020-04-12;1;12;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001049;2020-04-12;3;31;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001050;2020-04-12;13;159;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001051;2020-04-12;5;118;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001052;2020-04-12;18;293;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001053;2020-04-12;1;8;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001054;2020-04-12;1;2;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-001055;2020-04-12;2;113;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001056;2020-04-11;3;10;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001057;2020-04-11;1;4;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-001058;2020-04-11;11;146;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001059;2020-04-11;2;9;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-001060;2020-04-11;1;25;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001061;2020-04-11;1;111;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001062;2020-04-11;3;28;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001063;2020-04-11;19;275;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001064;2020-04-11;1;2;Malaui;dead_cases_africa_ncov_2020-06-16
+Deaths-001065;2020-04-11;3;110;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001066;2020-04-11;1;2;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-001067;2020-04-10;2;3;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-001068;2020-04-10;1;27;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001069;2020-04-10;1;7;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001070;2020-04-10;2;9;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001071;2020-04-10;3;12;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001072;2020-04-10;1;6;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-001073;2020-04-10;17;135;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001074;2020-04-10;2;107;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001075;2020-04-10;40;256;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001076;2020-04-10;1;3;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-001077;2020-04-10;1;5;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-001078;2020-04-10;1;2;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-001079;2020-04-10;4;24;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001080;2020-04-10;2;20;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001081;2020-04-10;8;105;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001082;2020-04-09;2;26;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001083;2020-04-09;11;216;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001084;2020-04-09;1;7;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001085;2020-04-09;1;25;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001086;2020-04-09;15;118;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001087;2020-04-09;4;97;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001088;2020-04-09;1;1;Yibuti;dead_cases_africa_ncov_2020-06-16
+Deaths-001089;2020-04-09;3;93;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001090;2020-04-08;1;24;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001091;2020-04-08;1;3;Zimbabue;dead_cases_africa_ncov_2020-06-16
+Deaths-001092;2020-04-08;1;24;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001093;2020-04-08;5;18;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001094;2020-04-08;9;103;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001095;2020-04-08;12;205;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001096;2020-04-08;1;1;Somalia;dead_cases_africa_ncov_2020-06-16
+Deaths-001097;2020-04-08;1;4;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-001098;2020-04-08;5;7;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-001099;2020-04-07;4;23;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001100;2020-04-07;1;2;Zimbabue;dead_cases_africa_ncov_2020-06-16
+Deaths-001101;2020-04-07;2;20;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001102;2020-04-07;1;11;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001103;2020-04-07;1;23;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001104;2020-04-07;1;6;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001105;2020-04-07;9;94;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001106;2020-04-07;20;193;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001107;2020-04-07;7;90;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001108;2020-04-07;1;13;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001109;2020-04-07;1;1;Malaui;dead_cases_africa_ncov_2020-06-16
+Deaths-001110;2020-04-07;3;83;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001111;2020-04-06;1;19;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001112;2020-04-06;1;12;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001113;2020-04-06;7;85;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001114;2020-04-06;21;173;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001115;2020-04-06;9;80;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001116;2020-04-06;2;6;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001117;2020-04-06;1;1;Benín;dead_cases_africa_ncov_2020-06-16
+Deaths-001118;2020-04-06;1;71;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001119;2020-04-05;1;18;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001120;2020-04-05;1;2;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-001121;2020-04-05;1;70;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001122;2020-04-05;5;10;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001123;2020-04-05;2;11;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001124;2020-04-05;2;3;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-001125;2020-04-05;3;22;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001126;2020-04-05;7;78;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001127;2020-04-05;10;69;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001128;2020-04-05;22;152;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001129;2020-04-05;2;3;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-001130;2020-04-05;1;5;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001131;2020-04-05;1;59;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001132;2020-04-05;1;1;Etiopía;dead_cases_africa_ncov_2020-06-16
+Deaths-001133;2020-04-04;1;17;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001134;2020-04-04;1;9;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001135;2020-04-04;2;18;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001136;2020-04-04;25;130;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001137;2020-04-04;5;71;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001138;2020-04-04;1;19;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001139;2020-04-04;8;58;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001140;2020-04-04;2;5;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001141;2020-04-04;1;1;Liberia;dead_cases_africa_ncov_2020-06-16
+Deaths-001142;2020-04-04;3;50;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001143;2020-04-03;3;16;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001144;2020-04-03;2;4;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001145;2020-04-03;1;2;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-001146;2020-04-03;22;105;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001147;2020-04-03;1;8;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001148;2020-04-03;4;18;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001149;2020-04-03;8;66;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001150;2020-04-03;1;3;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-001151;2020-04-03;2;9;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001152;2020-04-03;3;47;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001153;2020-04-02;2;7;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001154;2020-04-02;2;13;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001155;2020-04-02;1;1;Libia;dead_cases_africa_ncov_2020-06-16
+Deaths-001156;2020-04-02;6;58;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001157;2020-04-02;1;3;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001158;2020-04-02;25;83;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001159;2020-04-02;1;7;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001160;2020-04-02;2;14;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001161;2020-04-02;4;44;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001162;2020-04-02;1;40;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001163;2020-04-02;3;4;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001164;2020-04-02;1;1;Zambia;dead_cases_africa_ncov_2020-06-16
+Deaths-001165;2020-04-02;1;7;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001166;2020-04-01;3;11;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001167;2020-04-01;1;6;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001168;2020-04-01;6;52;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001169;2020-04-01;2;5;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001170;2020-04-01;3;39;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001171;2020-04-01;2;12;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001172;2020-04-01;14;58;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001173;2020-04-01;1;2;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-001174;2020-03-31;2;16;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001175;2020-03-31;1;1;Tanzania;dead_cases_africa_ncov_2020-06-16
+Deaths-001176;2020-03-31;5;46;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001177;2020-03-31;2;2;República del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001178;2020-03-31;2;5;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001179;2020-03-31;9;44;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001180;2020-03-31;1;1;Senegal;dead_cases_africa_ncov_2020-06-16
+Deaths-001181;2020-03-31;3;36;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001182;2020-03-31;1;1;Botsuana;dead_cases_africa_ncov_2020-06-16
+Deaths-001183;2020-03-31;1;5;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001184;2020-03-31;1;4;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001185;2020-03-30;2;14;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001186;2020-03-30;1;1;Mauritania;dead_cases_africa_ncov_2020-06-16
+Deaths-001187;2020-03-30;1;2;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-001188;2020-03-30;1;3;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001189;2020-03-30;5;10;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001190;2020-03-30;4;35;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001191;2020-03-30;6;33;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001192;2020-03-30;1;41;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001193;2020-03-30;1;2;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001194;2020-03-30;1;2;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-001195;2020-03-30;1;27;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001196;2020-03-29;1;2;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001197;2020-03-29;4;6;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001198;2020-03-29;1;3;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001199;2020-03-29;2;31;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001200;2020-03-29;1;8;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001201;2020-03-29;1;1;Costa de Marfil;dead_cases_africa_ncov_2020-06-16
+Deaths-001202;2020-03-29;2;2;Angola;dead_cases_africa_ncov_2020-06-16
+Deaths-001203;2020-03-29;4;40;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001204;2020-03-29;1;1;Mali;dead_cases_africa_ncov_2020-06-16
+Deaths-001205;2020-03-29;1;26;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001206;2020-03-28;1;12;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001207;2020-03-28;2;5;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-001208;2020-03-28;3;3;Níger;dead_cases_africa_ncov_2020-06-16
+Deaths-001209;2020-03-28;4;25;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001210;2020-03-28;6;36;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001211;2020-03-28;3;29;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001212;2020-03-28;1;1;Togo;dead_cases_africa_ncov_2020-06-16
+Deaths-001213;2020-03-27;2;11;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001214;2020-03-27;2;7;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001215;2020-03-27;1;1;Sudáfrica;dead_cases_africa_ncov_2020-06-16
+Deaths-001216;2020-03-27;11;21;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001217;2020-03-27;6;30;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001218;2020-03-27;1;26;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001219;2020-03-27;2;5;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001220;2020-03-26;2;9;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001221;2020-03-26;2;5;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001222;2020-03-26;3;24;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001223;2020-03-26;1;2;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001224;2020-03-26;4;10;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001225;2020-03-26;4;25;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001226;2020-03-26;1;1;Kenia;dead_cases_africa_ncov_2020-06-16
+Deaths-001227;2020-03-25;1;3;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001228;2020-03-25;1;21;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001229;2020-03-25;2;6;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001230;2020-03-25;1;3;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-001231;2020-03-25;2;21;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001232;2020-03-24;1;1;Cabo Verde;dead_cases_africa_ncov_2020-06-16
+Deaths-001233;2020-03-24;3;7;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001234;2020-03-24;1;20;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001235;2020-03-24;2;19;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001236;2020-03-24;1;1;Camerún;dead_cases_africa_ncov_2020-06-16
+Deaths-001237;2020-03-23;9;19;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001238;2020-03-23;1;2;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-001239;2020-03-23;1;1;Zimbabue;dead_cases_africa_ncov_2020-06-16
+Deaths-001240;2020-03-23;1;2;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001241;2020-03-23;1;1;Nigeria;dead_cases_africa_ncov_2020-06-16
+Deaths-001242;2020-03-22;1;1;Gambia;dead_cases_africa_ncov_2020-06-16
+Deaths-001243;2020-03-22;1;4;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001244;2020-03-22;2;17;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001245;2020-03-22;2;3;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001246;2020-03-22;1;2;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001247;2020-03-22;1;4;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001248;2020-03-21;1;1;Ghana;dead_cases_africa_ncov_2020-06-16
+Deaths-001249;2020-03-21;2;10;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001250;2020-03-21;3;15;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001251;2020-03-21;1;1;Mauricio;dead_cases_africa_ncov_2020-06-16
+Deaths-001252;2020-03-21;1;1;República Democrática del Congo;dead_cases_africa_ncov_2020-06-16
+Deaths-001253;2020-03-20;2;3;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001254;2020-03-20;1;8;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001255;2020-03-20;1;12;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001256;2020-03-20;1;3;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001257;2020-03-20;2;11;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001258;2020-03-20;1;1;Gabón;dead_cases_africa_ncov_2020-06-16
+Deaths-001259;2020-03-19;1;7;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001260;2020-03-19;1;1;Túnez;dead_cases_africa_ncov_2020-06-16
+Deaths-001261;2020-03-19;3;9;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001262;2020-03-18;1;6;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001263;2020-03-18;1;1;Burkina Faso;dead_cases_africa_ncov_2020-06-16
+Deaths-001264;2020-03-18;1;5;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001265;2020-03-17;2;6;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001266;2020-03-17;1;2;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001267;2020-03-17;1;4;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001268;2020-03-16;2;4;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001269;2020-03-14;1;3;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001270;2020-03-13;1;1;Sudán;dead_cases_africa_ncov_2020-06-16
+Deaths-001271;2020-03-12;1;2;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001272;2020-03-12;1;2;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001273;2020-03-12;1;1;Argelia;dead_cases_africa_ncov_2020-06-16
+Deaths-001274;2020-03-10;1;1;Marruecos;dead_cases_africa_ncov_2020-06-16
+Deaths-001275;2020-03-08;1;1;Egipto;dead_cases_africa_ncov_2020-06-16
+Deaths-001276;2020-02-12;2;8;Ghana;dead_cases_africa_ncov_2020-06-16
